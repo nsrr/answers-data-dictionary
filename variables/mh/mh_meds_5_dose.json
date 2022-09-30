@@ -1,0 +1,6 @@
+{
+  "id": "mh_meds_5_dose",
+  "display_name": "How much of [mh_meds_5_name] do you take?",
+  "description": "How much of [mh_meds_5_name] do you take?",
+  "type": null
+}
