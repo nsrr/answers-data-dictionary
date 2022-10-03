@@ -3,5 +3,5 @@
   "display_name": "Have you made a suicide attempt?",
   "description": "Have you made a suicide attempt?",
   "type": "choices",
-  "domain": "0no_1yes"
+  "domain": "no0_yes1"
 }

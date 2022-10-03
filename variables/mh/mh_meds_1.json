@@ -3,5 +3,5 @@
   "display_name": "Are you taking any medications (prescription or over-the-counter)?",
   "description": "Are you taking any medications (prescription or over-the-counter)?",
   "type": "choices",
-  "domain": "0no_1yes_nolab"
+  "domain": "no0_yes1"
 }

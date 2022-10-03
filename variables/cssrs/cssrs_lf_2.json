@@ -3,5 +3,5 @@
   "display_name": "Have you had any thoughts of killing yourself?",
   "description": "Have you had any thoughts of killing yourself?",
   "type": "choices",
-  "domain": "0no_1yes"
+  "domain": "no0_yes1"
 }

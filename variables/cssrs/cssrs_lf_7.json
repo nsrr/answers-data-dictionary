@@ -3,5 +3,5 @@
   "display_name": "Have you hurt yourself for reasons other than to die or without any intention of killing yourself (like to relieve stress, feel better, or get something else to happen)?",
   "description": "Have you hurt yourself for reasons other than to die or without any intention of killing yourself (like to relieve stress, feel better, or get something else to happen)?",
   "type": "choices",
-  "domain": "0no_1yes"
+  "domain": "no0_yes1"
 }

@@ -3,5 +3,5 @@
   "display_name": "Have you had these thoughts and had some intention of acting on them?",
   "description": "Have you had these thoughts and had some intention of acting on them?",
   "type": "choices",
-  "domain": "0no_1yes"
+  "domain": "no0_yes1"
 }

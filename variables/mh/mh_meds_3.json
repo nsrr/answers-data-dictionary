@@ -3,5 +3,5 @@
   "display_name": "Do you take another medication?",
   "description": "Do you take another medication?",
   "type": "choices",
-  "domain": "0no_1yes_nolab"
+  "domain": "no0_yes1"
 }

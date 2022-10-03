@@ -3,5 +3,5 @@
   "display_name": "Have you worked out the details of how to kill yourself? Do you intend to carry out this plan?",
   "description": "Have you worked out the details of how to kill yourself? Do you intend to carry out this plan?",
   "type": "choices",
-  "domain": "0no_1yes"
+  "domain": "no0_yes1"
 }
