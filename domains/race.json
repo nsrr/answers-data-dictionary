@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1, White / Caucasian ",
+    "display_name": " White / Caucasian ",
+    "description": ""
+  },
+  {
+    "value": "2, Black / African American ",
+    "display_name": " Black / African American ",
+    "description": ""
+  },
+  {
+    "value": "3, Native American / Alaska Native ",
+    "display_name": " Native American / Alaska Native ",
+    "description": ""
+  },
+  {
+    "value": "4, Asian American ",
+    "display_name": " Asian American ",
+    "description": ""
+  },
+  {
+    "value": "5, Native Hawaiian / Pacific Islander",
+    "display_name": " Native Hawaiian / Pacific Islander",
+    "description": ""
+  }
+]

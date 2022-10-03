@@ -1,0 +1,47 @@
+[
+  {
+    "value": "1",
+    "display_name": " I never drink caffeinated beverages ",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": " Early morning (5AM-8AM) ",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": " Morning (8AM-11AM) ",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": " Noontime (11AM-2PM) ",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": " Afternoon (2PM-5PM) ",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": " Early Evening (5PM-8PM) ",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": " Evening (8PM-11PM) ",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": " Late Evening (11PM-2AM) ",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": " Middle of the Night (2AM-5AM)",
+    "description": ""
+  }
+]

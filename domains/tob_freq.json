@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Current smoker (daily) ",
+    "display_name": " Current smoker (daily) ",
+    "description": ""
+  },
+  {
+    "value": "Current smoker (occasionally) ",
+    "display_name": " Current smoker (occasionally) ",
+    "description": ""
+  },
+  {
+    "value": "Former smoker ",
+    "display_name": " Former smoker ",
+    "description": ""
+  },
+  {
+    "value": "Never smoked",
+    "display_name": " Never smoked",
+    "description": ""
+  }
+]
