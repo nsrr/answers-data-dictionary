@@ -2,5 +2,6 @@
   "id": "upps_20",
   "display_name": "I tend to act without thinking when I am really excited",
   "description": "I tend to act without thinking when I am really excited",
-  "type": null
+  "type": "choices",
+  "domain": "upps"
 }

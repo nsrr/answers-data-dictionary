@@ -2,5 +2,6 @@
   "id": "gad_4",
   "display_name": "Trouble relaxing",
   "description": "Trouble relaxing",
-  "type": null
+  "type": "choices",
+  "domain": "gad"
 }

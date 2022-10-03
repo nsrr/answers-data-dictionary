@@ -2,5 +2,5 @@
   "id": "wd_tst",
   "display_name": "Weekday Total Sleep Time (TIB - TWT - BTS)",
   "description": "Weekday Total Sleep Time (TIB - TWT - BTS)",
-  "type": null
+  "type": "numeric"
 }

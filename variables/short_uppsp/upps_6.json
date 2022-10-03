@@ -2,5 +2,6 @@
   "id": "upps_6",
   "display_name": "When I feel bad, I will often do things I later regret in order to make myself feel better now",
   "description": "When I feel bad, I will often do things I later regret in order to make myself feel better now",
-  "type": null
+  "type": "choices",
+  "domain": "upps"
 }

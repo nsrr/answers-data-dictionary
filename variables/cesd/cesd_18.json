@@ -2,5 +2,6 @@
   "id": "cesd_18",
   "display_name": "I felt sad",
   "description": "I felt sad",
-  "type": null
+  "type": "choices",
+  "domain": "cesd"
 }

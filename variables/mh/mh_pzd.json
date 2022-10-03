@@ -1,6 +1,7 @@
 {
   "id": "mh_pzd",
   "display_name": "Schizophrenia, schizoaffective disorder, or another psychotic disorder?",
-  "description": "Schizophrenia, schizoaffective disorder, or another psychotic disorder?",
-  "type": null
+  "description": "Do you have  schizophrenia, schizoaffective disorder, or another psychotic disorder?",
+  "type": "choices",
+  "domain": "mh_diagnosis"
 }

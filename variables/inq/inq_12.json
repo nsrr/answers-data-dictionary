@@ -2,5 +2,6 @@
   "id": "inq_12",
   "display_name": "These days, I often feel like an outside in social gatherings",
   "description": "These days, I often feel like an outside in social gatherings",
-  "type": null
+  "type": "choices",
+  "domain": "inq"
 }

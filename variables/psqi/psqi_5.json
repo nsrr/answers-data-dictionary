@@ -2,5 +2,5 @@
   "id": "psqi_5",
   "display_name": "During the past month how often have you had trouble sleeping because you....",
   "description": "During the past month how often have you had trouble sleeping because you....",
-  "type": null
+  "type": "numeric"
 }

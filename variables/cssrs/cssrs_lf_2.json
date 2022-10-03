@@ -2,5 +2,6 @@
   "id": "cssrs_lf_2",
   "display_name": "Have you had any thoughts of killing yourself?",
   "description": "Have you had any thoughts of killing yourself?",
-  "type": null
+  "type": "choices",
+  "domain": "0no_1yes"
 }

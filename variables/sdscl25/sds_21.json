@@ -2,5 +2,6 @@
   "id": "sds_21",
   "display_name": "I have nightmares",
   "description": "I have nightmares",
-  "type": null
+  "type": "choices",
+  "domain": "sds"
 }

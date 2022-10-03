@@ -2,5 +2,6 @@
   "id": "cesd_13",
   "display_name": "I talked less than usual",
   "description": "I talked less than usual",
-  "type": null
+  "type": "choices",
+  "domain": "cesd"
 }

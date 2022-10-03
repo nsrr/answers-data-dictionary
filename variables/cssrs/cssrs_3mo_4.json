@@ -2,5 +2,6 @@
   "id": "cssrs_3mo_4",
   "display_name": "Have you had these thoughts and had some intention of acting on them?",
   "description": "Have you had these thoughts and had some intention of acting on them?",
-  "type": null
+  "type": "choices",
+  "domain": "0no_1yes"
 }

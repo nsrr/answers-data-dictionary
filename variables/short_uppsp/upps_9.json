@@ -2,5 +2,6 @@
   "id": "upps_9",
   "display_name": "I quite enjoy taking risks",
   "description": "I quite enjoy taking risks",
-  "type": null
+  "type": "choices",
+  "domain": "upps"
 }

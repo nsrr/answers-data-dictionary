@@ -2,5 +2,5 @@
   "id": "we_tts",
   "display_name": "Weekend Time to Sleep",
   "description": "Weekend Time to Sleep",
-  "type": null
+  "type": "numeric"
 }

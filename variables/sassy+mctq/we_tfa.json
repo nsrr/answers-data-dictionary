@@ -2,5 +2,5 @@
   "id": "we_tfa",
   "display_name": "Weekend Time of Final Awakening",
   "description": "Weekend Time of Final Awakening",
-  "type": null
+  "type": "numeric"
 }

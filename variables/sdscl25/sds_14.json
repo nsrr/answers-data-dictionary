@@ -2,5 +2,6 @@
   "id": "sds_14",
   "display_name": "I wake up choking or gasping for air",
   "description": "I wake up choking or gasping for air",
-  "type": null
+  "type": "choices",
+  "domain": "sds"
 }

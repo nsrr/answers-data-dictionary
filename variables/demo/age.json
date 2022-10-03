@@ -2,5 +2,5 @@
   "id": "age",
   "display_name": "What is your date of birth?",
   "description": "What is your date of birth?",
-  "type": null
+  "type": "date"
 }

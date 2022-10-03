@@ -2,5 +2,6 @@
   "id": "we_sq",
   "display_name": "Weekend Sleep Quality ",
   "description": "Weekend Sleep Quality ",
-  "type": null
+  "type": "choices",
+  "domain": "sleepquality"
 }

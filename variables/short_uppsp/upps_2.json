@@ -2,5 +2,6 @@
   "id": "upps_2",
   "display_name": "My thinking is usually careful and purposeful",
   "description": "My thinking is usually careful and purposeful",
-  "type": null
+  "type": "choices",
+  "domain": "upps"
 }

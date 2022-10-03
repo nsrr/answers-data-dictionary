@@ -2,5 +2,6 @@
   "id": "subs_caff_1",
   "display_name": "How often do you consume caffeinated products (like coffee, tea, energy drinks, etc)?",
   "description": "How often do you consume caffeinated products (like coffee, tea, energy drinks, etc)?",
-  "type": null
+  "type": "choices",
+  "domain": "subs_freq"
 }

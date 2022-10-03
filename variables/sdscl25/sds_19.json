@@ -2,5 +2,6 @@
   "id": "sds_19",
   "display_name": "When falling asleep or waking up, I experience scary dream-like images",
   "description": "When falling asleep or waking up, I experience scary dream-like images",
-  "type": null
+  "type": "choices",
+  "domain": "sds"
 }

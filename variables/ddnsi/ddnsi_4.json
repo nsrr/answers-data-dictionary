@@ -2,5 +2,6 @@
   "id": "ddnsi_4",
   "display_name": "How severe is your nightmare problem?",
   "description": "How severe is your nightmare problem?",
-  "type": null
+  "type": "choices",
+  "domain": "ddnsi_4"
 }

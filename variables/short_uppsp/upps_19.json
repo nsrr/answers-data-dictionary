@@ -2,5 +2,6 @@
   "id": "upps_19",
   "display_name": "I usually think carefully before doing anything",
   "description": "I usually think carefully before doing anything",
-  "type": null
+  "type": "choices",
+  "domain": "upps"
 }

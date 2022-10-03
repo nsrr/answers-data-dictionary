@@ -2,5 +2,6 @@
   "id": "cesd_2",
   "display_name": "I did not feel like eating; my appetite was poor",
   "description": "I did not feel like eating; my appetite was poor",
-  "type": null
+  "type": "choices",
+  "domain": "cesd"
 }

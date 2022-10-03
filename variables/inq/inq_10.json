@@ -2,5 +2,6 @@
   "id": "inq_10",
   "display_name": "These days, I am fortunate to have many caring and supportive friends",
   "description": "These days, I am fortunate to have many caring and supportive friends",
-  "type": null
+  "type": "choices",
+  "domain": "inq"
 }

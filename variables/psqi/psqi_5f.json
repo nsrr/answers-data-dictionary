@@ -1,6 +1,7 @@
 {
   "id": "psqi_5f",
   "display_name": "Feel too cold?",
-  "description": "Feel too cold?",
-  "type": null
+  "description": "During the past month how often have you had trouble sleeping because you feel too cold?",
+  "type": "choices",
+  "domain": "wk_freq"
 }

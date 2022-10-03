@@ -2,5 +2,6 @@
   "id": "upps_15",
   "display_name": "When I feel rejected, I will often say things that I later regret",
   "description": "When I feel rejected, I will often say things that I later regret",
-  "type": null
+  "type": "choices",
+  "domain": "upps"
 }

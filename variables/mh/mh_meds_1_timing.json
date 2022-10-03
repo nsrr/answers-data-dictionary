@@ -1,6 +1,6 @@
 {
   "id": "mh_meds_1_timing",
-  "display_name": "Approximately when do you take [mh_meds_1_name] (in military time)?",
-  "description": "Approximately when do you take [mh_meds_1_name] (in military time)?",
-  "type": null
+  "display_name": "Approximately when do you take the first medication (in military time)?",
+  "description": "Approximately when do you take the first medication (in military time)?",
+  "type": "time"
 }

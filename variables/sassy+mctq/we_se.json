@@ -2,5 +2,5 @@
   "id": "we_se",
   "display_name": "Weekend Sleep Efficiency (TST/TIB)",
   "description": "Weekend Sleep Efficiency (TST/TIB)",
-  "type": null
+  "type": "numeric"
 }

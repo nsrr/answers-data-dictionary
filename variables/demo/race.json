@@ -2,5 +2,6 @@
   "id": "race",
   "display_name": "What is your race (select all that apply)?",
   "description": "What is your race (select all that apply)?",
-  "type": null
+  "type": "choices",
+  "domain": "race"
 }

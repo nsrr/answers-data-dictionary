@@ -2,5 +2,6 @@
   "id": "upps_1",
   "display_name": "I generally like to see things through to the end",
   "description": "I generally like to see things through to the end",
-  "type": null
+  "type": "choices",
+  "domain": "upps"
 }

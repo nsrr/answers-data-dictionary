@@ -2,5 +2,6 @@
   "id": "sds_3",
   "display_name": "It takes me 30 minutes or more to fall asleep",
   "description": "It takes me 30 minutes or more to fall asleep",
-  "type": null
+  "type": "choices",
+  "domain": "sds"
 }

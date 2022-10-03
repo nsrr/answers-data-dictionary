@@ -2,5 +2,6 @@
   "id": "subs_tob_1",
   "display_name": "Do you smoke cigarettes or other tobacco products?",
   "description": "Do you smoke cigarettes or other tobacco products?",
-  "type": null
+  "type": "choices",
+  "domain": "tob_freq"
 }

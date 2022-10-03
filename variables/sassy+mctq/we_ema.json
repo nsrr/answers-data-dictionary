@@ -2,5 +2,5 @@
   "id": "we_ema",
   "display_name": "Weekend Early Morning Awakening (TOB-TFA)",
   "description": "Weekend Early Morning Awakening (TOB-TFA)",
-  "type": null
+  "type": "numeric"
 }

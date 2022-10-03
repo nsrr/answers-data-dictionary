@@ -2,5 +2,6 @@
   "id": "ddnsi_5",
   "display_name": "How intense are your nightmares?",
   "description": "How intense are your nightmares?",
-  "type": null
+  "type": "choices",
+  "domain": "ddnsi_5"
 }

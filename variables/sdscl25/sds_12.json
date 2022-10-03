@@ -2,5 +2,6 @@
   "id": "sds_12",
   "display_name": "My snoring is so loud, that my bed partner complains",
   "description": "My snoring is so loud, that my bed partner complains",
-  "type": null
+  "type": "choices",
+  "domain": "sds"
 }

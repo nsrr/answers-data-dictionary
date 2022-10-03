@@ -2,5 +2,6 @@
   "id": "sds_17",
   "display_name": "I wake up frequently during the night for no reason",
   "description": "I wake up frequently during the night for no reason",
-  "type": null
+  "type": "choices",
+  "domain": "sds"
 }

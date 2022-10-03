@@ -1,6 +1,7 @@
 {
   "id": "mh_mdd",
   "display_name": "Depression?",
-  "description": "Depression?",
-  "type": null
+  "description": "Do you have depression?",
+  "type": "choices",
+  "domain": "mh_diagnosis"
 }

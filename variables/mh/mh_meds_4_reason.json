@@ -1,6 +1,6 @@
 {
   "id": "mh_meds_4_reason",
-  "display_name": "Why do you take [mh_meds_4_name]?",
-  "description": "Why do you take [mh_meds_4_name]?",
-  "type": null
+  "display_name": "Why do you take the fourth medication?",
+  "description": "Why do you take the fourth medication?",
+  "type": "text"
 }

@@ -2,5 +2,6 @@
   "id": "inq_6",
   "display_name": "These days, I think I make things worse for the people in my life",
   "description": "These days, I think I make things worse for the people in my life",
-  "type": null
+  "type": "choices",
+  "domain": "inq"
 }

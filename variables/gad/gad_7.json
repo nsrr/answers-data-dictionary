@@ -2,5 +2,6 @@
   "id": "gad_7",
   "display_name": "Feeling afraid as if something awful might happen",
   "description": "Feeling afraid as if something awful might happen",
-  "type": null
+  "type": "choices",
+  "domain": "gad"
 }

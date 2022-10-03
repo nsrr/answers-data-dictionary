@@ -2,5 +2,6 @@
   "id": "sds_15",
   "display_name": "I feel uncomfortable sensations in my legs, especially when sitting or lying down, that are relieved by moving them",
   "description": "I feel uncomfortable sensations in my legs, especially when sitting or lying down, that are relieved by moving them",
-  "type": null
+  "type": "choices",
+  "domain": "sds"
 }

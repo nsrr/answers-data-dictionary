@@ -1,6 +1,7 @@
 {
   "id": "psqi_5b",
   "display_name": "Wake up in the middle of the night or early morning?",
-  "description": "Wake up in the middle of the night or early morning?",
-  "type": null
+  "description": "During the past month how often have you had trouble sleeping because you wake up in the middle of the night or early morning?",
+  "type": "choices",
+  "domain": "wk_freq"
 }

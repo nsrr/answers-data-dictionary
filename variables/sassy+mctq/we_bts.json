@@ -2,5 +2,5 @@
   "id": "we_bts",
   "display_name": "Weekend Bedtime to Sleeptime (TTS-TTB)",
   "description": "Weekend Bedtime to Sleeptime (TTS-TTB)",
-  "type": null
+  "type": "numeric"
 }

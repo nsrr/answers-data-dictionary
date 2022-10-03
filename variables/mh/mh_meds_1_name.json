@@ -2,5 +2,5 @@
   "id": "mh_meds_1_name",
   "display_name": "What is the name of the first medication?",
   "description": "What is the name of the first medication?",
-  "type": null
+  "type": "text"
 }

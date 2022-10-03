@@ -2,5 +2,5 @@
   "id": "msf",
   "display_name": "Midpoint of sleep on weekends/freedays",
   "description": "Midpoint of sleep on weekends/freedays",
-  "type": null
+  "type": "numeric"
 }

@@ -2,5 +2,5 @@
   "id": "ddnsi_1",
   "display_name": "How many nights in a week do you have nightmares?",
   "description": "How many nights in a week do you have nightmares?",
-  "type": null
+  "type": "numeric"
 }

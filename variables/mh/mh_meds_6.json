@@ -2,5 +2,6 @@
   "id": "mh_meds_6",
   "display_name": "Do you take another medication?",
   "description": "Do you take another medication?",
-  "type": null
+  "type": "choices",
+  "domain": "0no_1yes_nolab"
 }
