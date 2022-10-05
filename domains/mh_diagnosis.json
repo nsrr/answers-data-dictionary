@@ -1,22 +1,22 @@
 [
   {
-    "value": "Yes diagnosed by a clinician ",
-    "display_name": " Yes diagnosed by a clinician ",
+    "value": "Yes diagnosed by clinician",
+    "display_name": "Yes diagnosed by a clinician ",
     "description": ""
   },
   {
-    "value": "Yes but undiagnosed ",
-    "display_name": " Yes but undiagnosed ",
+    "value": "Yes but undiagnosed",
+    "display_name": "Yes but undiagnosed ",
     "description": ""
   },
   {
-    "value": "No ",
-    "display_name": " No ",
+    "value": "No",
+    "display_name": "No ",
     "description": ""
   },
   {
     "value": "Not sure",
-    "display_name": " Not sure",
+    "display_name": "Not sure",
     "description": ""
   }
 ]

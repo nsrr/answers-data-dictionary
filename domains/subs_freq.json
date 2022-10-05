@@ -1,32 +1,32 @@
 [
   {
-    "value": "Never ",
-    "display_name": " Never ",
+    "value": "Never",
+    "display_name": "Never ",
     "description": ""
   },
   {
-    "value": "Once a month or less ",
-    "display_name": " Once a month or less ",
+    "value": "Once a month or less",
+    "display_name": "Once a month or less ",
     "description": ""
   },
   {
-    "value": "Once a week or less ",
-    "display_name": " Once a week or less ",
+    "value": "Once a week or less",
+    "display_name": "Once a week or less ",
     "description": ""
   },
   {
-    "value": "A few times a week ",
-    "display_name": " A few times a week ",
+    "value": "A few times a week",
+    "display_name": "A few times a week ",
     "description": ""
   },
   {
-    "value": "Every day ",
-    "display_name": " Every day ",
+    "value": "Daily",
+    "display_name": "Every day ",
     "description": ""
   },
   {
-    "value": "Multiple times per day",
-    "display_name": " Multiple times per day",
+    "value": "Multiple times daily",
+    "display_name": "Multiple times per day",
     "description": ""
   }
 ]

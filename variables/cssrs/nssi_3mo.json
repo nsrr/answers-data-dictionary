@@ -1,0 +1,7 @@
+{
+  "id": "nssi_3mo",
+  "display_name": "Non-suicidal self harm in past 3 months",
+  "description": "Yes if cssrs_3mo_7, no otherwise",
+  "type": "choices",
+  "domain": "noyes"
+}

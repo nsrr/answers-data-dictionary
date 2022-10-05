@@ -1,0 +1,7 @@
+{
+  "id": "sa_3mo",
+  "display_name": "Suicide attempt in past 3 months",
+  "description": "Yes if cssrs_3mo_8, no otherwise",
+  "type": "choices",
+  "domain": "noyes"
+}

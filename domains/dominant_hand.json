@@ -1,17 +1,17 @@
 [
   {
-    "value": "1, Right-handed ",
-    "display_name": " Right-handed ",
+    "value": "Right",
+    "display_name": "Right-handed ",
     "description": ""
   },
   {
-    "value": "2, Left-handed ",
-    "display_name": " Left-handed ",
+    "value": "Left",
+    "display_name": "Left-handed ",
     "description": ""
   },
   {
-    "value": "3, Both hands (ambidextrous)",
-    "display_name": " Both hands (ambidextrous)",
+    "value": "Both",
+    "display_name": "Both hands (ambidextrous)",
     "description": ""
   }
 ]

@@ -1,21 +1,21 @@
 [
   {
-    "value": "1, Heterosexual ",
+    "value": "Heterosexual",
     "display_name": " Heterosexual ",
     "description": ""
   },
   {
-    "value": "2, Homosexual (lesbian or gay) ",
+    "value": "Homosexual",
     "display_name": " Homosexual (lesbian or gay) ",
     "description": ""
   },
   {
-    "value": "3, Bisexual ",
+    "value": "Bisexual",
     "display_name": " Bisexual ",
     "description": ""
   },
   {
-    "value": "4, Asexual or other",
+    "value": "Other",
     "display_name": " Asexual or other",
     "description": ""
   }

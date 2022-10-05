@@ -1,32 +1,17 @@
 [
   {
-    "value": "1, Less than high school ",
-    "display_name": " Less than high school ",
+    "value": "College or more",
+    "display_name": "College or more",
     "description": ""
   },
   {
-    "value": "2, High school or equivalent ",
-    "display_name": " High school or equivalent ",
+    "value": "High school or less",
+    "display_name": "High school or less",
     "description": ""
   },
   {
-    "value": "3, Some college ",
-    "display_name": " Some college ",
-    "description": ""
-  },
-  {
-    "value": "4, Bachelors or Associates degree ",
-    "display_name": " Bachelors or Associates degree ",
-    "description": ""
-  },
-  {
-    "value": "5, Masters degree ",
-    "display_name": " Masters degree ",
-    "description": ""
-  },
-  {
-    "value": "6, Doctoral degree",
-    "display_name": " Doctoral degree",
+    "value": "NA",
+    "display_name": "Na",
     "description": ""
   }
 ]

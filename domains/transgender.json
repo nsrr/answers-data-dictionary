@@ -1,11 +1,11 @@
 [
   {
-    "value": "1, No ",
+    "value": "No",
     "display_name": " No ",
     "description": ""
   },
   {
-    "value": "2, Yes",
+    "value": "Yes",
     "display_name": " Yes",
     "description": ""
   }
