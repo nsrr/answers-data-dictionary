@@ -11,7 +11,7 @@
   },
   {
     "value": "Native",
-    "display_name": "Native American / Alaska Native / Native Hawaiian / Pacific Islander",
+    "display_name": "Native American / Alaska Native",
     "description": ""
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "value": "Asian",
-    "display_name": "Asian American ",
+    "display_name": "Asian American / Native Hawaiian / Pacific Islander",
     "description": ""
   }
 ]

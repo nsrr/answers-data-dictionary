@@ -1,12 +1,12 @@
 [
   {
     "value": "College or more",
-    "display_name": "College or more",
+    "display_name": "Bachelors or Associates degree / Masters Degree / Doctoral degree",
     "description": ""
   },
   {
     "value": "High school or less",
-    "display_name": "High school or less",
+    "display_name": "Less than high school / High school or equivalent / Some college",
     "description": ""
   },
   {
