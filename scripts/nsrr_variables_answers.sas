@@ -5,17 +5,17 @@
 *******************************************************************************;
 * establish options and libnames ;
 *******************************************************************************;
-  libname ansnsrr "C:\Users\mkt27\answers-data-dictionary\csvs\0.1.0";
+  libname ansnsrr "\\rfawin.partners.org\bwh-sleepepi-nsrr-staging\20221001-answers\nsrr-prep";
 
 *******************************************************************************;
 * import and process master datasets from source ;
 *******************************************************************************;
-proc import file ="C:\Users\mkt27\answers_data_041022.csv"
+proc import file ="\\rfawin.partners.org\bwh-sleepepi-nsrr-staging\20221001-answers\nsrr-prep\_source\answers_data_041022.csv"
 out = ansnsrr.answers
 dbms=csv
 replace;
+guessingrows=1000;
 run;
-
 
 data answers;
     set ansnsrr.answers;
@@ -148,9 +148,16 @@ run;
 *******************************************************************************;
 * export nsrr csv datasets ;
 *******************************************************************************;
+  %let version = 0.1.0;
+
+  data _null_;
+    call symput("sasfiledate",put(year("&sysdate"d),4.)||put(month("&sysdate"d),z2.)||put(day("&sysdate"d),z2.));
+  run;
+
+
   proc export
     data=answers_combo_dataset
-    outfile="C:\Users\mkt27\answers-data-dictionary\csvs\0.1.0\answers_dataset_0.1.0..csv"
+    outfile="\\rfawin.partners.org\bwh-sleepepi-nsrr-staging\20221001-answers\nsrr-prep\_releases\&version.\answers_data_&version..csv"
     dbms=csv
     replace;
   run;
