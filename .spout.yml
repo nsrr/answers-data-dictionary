@@ -1,3 +1,13 @@
-slug: answers-data-dictionary
+slug: answers
 visit: visit
-charts: []
+charts: 
+  - chart: Sex
+    title: Sex
+  - chart: Race
+    title: Race
+webservers:
+  - name: production
+    url: https://sleepdata.org
+  - name: staging
+    url: https://staging.partners.org/sleepdata.org
+    
