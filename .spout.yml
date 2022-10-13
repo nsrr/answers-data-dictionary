@@ -1,9 +1,9 @@
 slug: answers
 visit: visit
 charts: 
-  - chart: Sex
+  - chart: sex
     title: Sex
-  - chart: Race
+  - chart: race
     title: Race
 webservers:
   - name: production

@@ -10,7 +10,7 @@
 *******************************************************************************;
 * import and process master datasets from source ;
 *******************************************************************************;
-proc import file ="C:\Users\mkt27\answers-data-dictionary\csvs\0.1.0\answers_data_041022.csv"
+proc import file ="C:\Users\mkt27\answers_data_041022.csv"
 out = ansnsrr.answers
 dbms=csv
 replace;
@@ -55,8 +55,8 @@ set ansnsrr.answers;
 	if race = 'White' then nsrr_race = 'white';
     else if race = 'Asian' then nsrr_race = 'asian';
 	else if race = 'Black' then nsrr_race = 'black or african american';
-	*else if race = '04' then nsrr_race = 'hispanic';
-    else if race = 'Multiracial' then nsrr_race = 'Multiracial';
+    else if race = 'Multiracial' then nsrr_race = 'multiple';
+	else if race = 'Native' then nsrr_race = 'american indian or alaska native';
 	else nsrr_race = "?";
 
 *ethnicity;
@@ -150,7 +150,7 @@ run;
 *******************************************************************************;
   proc export
     data=answers_combo_dataset
-    outfile="C:\Users\mkt27\answers-data-dictionary\csvs\0.1.0\answers_inc_nsrr_vars..csv"
+    outfile="C:\Users\mkt27\answers-data-dictionary\csvs\0.1.0\answers_dataset_0.1.0..csv"
     dbms=csv
     replace;
   run;

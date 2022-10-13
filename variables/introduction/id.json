@@ -1,5 +1,5 @@
 {
-  "id": "ID",
+  "id": "id",
   "display_name": "Id",
   "description": "Record ID",
   "type": "identifier"
