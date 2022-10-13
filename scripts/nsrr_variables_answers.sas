@@ -57,7 +57,7 @@ set ansnsrr.answers;
 	else if race = 'Black' then nsrr_race = 'black or african american';
     else if race = 'Multiracial' then nsrr_race = 'multiple';
 	else if race = 'Native' then nsrr_race = 'american indian or alaska native';
-	else nsrr_race = "?";
+	else if race = 'Islander' then nsrr_race = 'native hawaiian or other pacific islander';
 
 *ethnicity;
 	format nsrr_ethnicity $100.;

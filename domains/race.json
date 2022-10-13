@@ -20,8 +20,13 @@
     "description": ""
   },
   {
+    "value": "Islander",
+    "display_name": "Native Hawaiian / Pacific Islander",
+    "description": ""
+  },
+  {
     "value": "Asian",
-    "display_name": "Asian American / Native Hawaiian / Pacific Islander",
+    "display_name": "Asian American",
     "description": ""
   }
 ]
