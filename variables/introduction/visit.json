@@ -1,7 +1,7 @@
 {
   "id": "visit",
-  "display_name": "dummyvariable",
-  "description": "dummyvariable",
+  "display_name": "visit",
+  "description": "visit",
   "type": "choices",
   "domain": "vnum"
 }
