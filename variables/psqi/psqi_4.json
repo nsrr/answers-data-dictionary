@@ -1,6 +1,6 @@
 {
   "id": "psqi_4",
-  "display_name": "During the past month, how many hours of actual sleep did you get at night (this may be different than the number of hours you spend in bed)?",
+  "display_name": "How many hours of actual sleep did you get at night (this may be different than the number of hours you spend in bed)?",
   "description": "During the past month, how many hours of actual sleep did you get at night (this may be different than the number of hours you spend in bed)?",
   "type": "numeric",
   "units": "hours"

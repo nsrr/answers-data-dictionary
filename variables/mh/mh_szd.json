@@ -1,7 +1,7 @@
 {
   "id": "mh_szd",
   "display_name": "Do you have a seizure disorder, or have had seizures?",
-  "description": "Do you have a seizure disorder, or have had seizures?",
+  "description": "",
   "type": "choices",
   "domain": "mh_diagnosis"
 }

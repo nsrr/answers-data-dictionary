@@ -1,6 +1,6 @@
 {
   "id": "wd_sol",
   "display_name": "Weekday Sleep Onset Latency",
-  "description": "Weekday Sleep Onset Latency",
+  "description": "",
   "type": "numeric"
 }

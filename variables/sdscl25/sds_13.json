@@ -1,7 +1,7 @@
 {
   "id": "sds_13",
   "display_name": "I have been told that I stop breathing in my sleep",
-  "description": "I have been told that I stop breathing in my sleep",
+  "description": "",
   "type": "choices",
   "domain": "sds"
 }

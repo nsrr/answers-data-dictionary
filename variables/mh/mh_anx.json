@@ -1,7 +1,7 @@
 {
   "id": "mh_anx",
   "display_name": "An anxiety disorder?",
-  "description": "Do you have  an anxiety disorder?",
+  "description": "",
   "type": "choices",
   "domain": "mh_diagnosis"
 }

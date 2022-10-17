@@ -1,7 +1,7 @@
 {
   "id": "sds_7",
   "display_name": "I sleep better if I go to bed before 9PM and wake up before 4:30AM",
-  "description": "I sleep better if I go to bed before 9PM and wake up before 4:30AM",
+  "description": "",
   "type": "choices",
   "domain": "sds"
 }

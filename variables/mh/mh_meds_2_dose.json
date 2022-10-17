@@ -1,6 +1,6 @@
 {
   "id": "mh_meds_2_dose",
   "display_name": "How much of the second medication do you take?",
-  "description": "How much of the second medication do you take?",
+  "description": "",
   "type": "numeric"
 }

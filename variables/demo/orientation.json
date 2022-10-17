@@ -1,7 +1,7 @@
 {
   "id": "orientation",
   "display_name": "Please describe your sexual orientation:",
-  "description": "Please describe your sexual orientation:",
+  "description": "",
   "type": "choices",
   "domain": "sexual_orientation"
 }

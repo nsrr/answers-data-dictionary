@@ -1,7 +1,7 @@
 {
   "id": "transgender",
   "display_name": "Are you transgender?",
-  "description": "Are you transgender?",
+  "description": "",
   "type": "choices",
   "domain": "transgender"
 }

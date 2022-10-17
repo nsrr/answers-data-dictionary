@@ -1,7 +1,7 @@
 {
   "id": "mh_bpd",
   "display_name": "Bipolar disorder?",
-  "description": "Do you have  bipolar disorder?",
+  "description": "",
   "type": "choices",
   "domain": "mh_diagnosis"
 }

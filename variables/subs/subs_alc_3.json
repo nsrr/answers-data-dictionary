@@ -1,7 +1,7 @@
 {
   "id": "subs_alc_3",
   "display_name": "How often do you use alcohol to help you sleep?",
-  "description": "How often do you use alcohol to help you sleep?",
+  "description": "",
   "type": "choices",
   "domain": "freq_wdown"
 }

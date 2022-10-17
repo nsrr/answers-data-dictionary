@@ -1,6 +1,6 @@
 {
   "id": "psqi_2",
-  "display_name": "During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",
+  "display_name": "How long (in minutes) has it usually taken you to fall asleep each night?",
   "description": "During the past month, how long (in minutes) has it usually taken you to fall asleep each night?",
   "type": "numeric",
   "units": "minutes"

@@ -1,7 +1,7 @@
 {
   "id": "isi_7",
   "display_name": "To what extent do you consider your sleep problem to INTERFERE with your daily functioning currently?",
-  "description": "To what extent do you consider your sleep problem to INTERFERE with your daily functioning currently?",
+  "description": "",
   "type": "choices",
   "domain": "interfering"
 }

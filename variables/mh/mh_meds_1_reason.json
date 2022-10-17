@@ -1,6 +1,6 @@
 {
   "id": "mh_meds_1_reason",
   "display_name": "Why do you take the first medication?",
-  "description": "Why do you take the first medication?",
+  "description": "",
   "type": "text"
 }

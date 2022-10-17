@@ -1,7 +1,7 @@
 {
   "id": "cesd_6",
   "display_name": "I felt depressed",
-  "description": "I felt depressed",
+  "description": "",
   "type": "choices",
   "domain": "cesd"
 }

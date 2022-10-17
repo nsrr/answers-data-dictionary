@@ -1,7 +1,7 @@
 {
   "id": "mh_meds_2",
   "display_name": "Do you take another medication?",
-  "description": "Do you take another medication?",
+  "description": "",
   "type": "choices",
   "domain": "no0_yes1"
 }

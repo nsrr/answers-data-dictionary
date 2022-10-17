@@ -1,7 +1,7 @@
 {
   "id": "subs_can_3",
   "display_name": "How often do you use cannabis/marijuana to help you sleep?",
-  "description": "How often do you use cannabis/marijuana to help you sleep?",
+  "description": "",
   "type": "choices",
   "domain": "freq_wdown"
 }

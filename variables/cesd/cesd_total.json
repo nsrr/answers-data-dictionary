@@ -1,6 +1,6 @@
 {
   "id": "cesd_total",
   "display_name": "CESD Total Score",
-  "description": "CESD Total Score",
+  "description": "",
   "type": "numeric"
 }

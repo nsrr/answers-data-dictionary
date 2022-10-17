@@ -1,7 +1,7 @@
 {
   "id": "sds_10",
   "display_name": "I snore",
-  "description": "I snore",
+  "description": "",
   "type": "choices",
   "domain": "sds"
 }

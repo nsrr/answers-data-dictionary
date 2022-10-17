@@ -1,6 +1,6 @@
 {
   "id": "mh_meds_2_reason",
   "display_name": "Why do you take the second medication?",
-  "description": "Why do you take the second medication?",
+  "description": "",
   "type": "text"
 }

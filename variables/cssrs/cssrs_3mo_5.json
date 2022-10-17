@@ -1,7 +1,7 @@
 {
   "id": "cssrs_3mo_5",
   "display_name": "Have you worked out the details of how to kill yourself? Do you intend to carry out this plan?",
-  "description": "Have you worked out the details of how to kill yourself? Do you intend to carry out this plan?",
+  "description": "",
   "type": "choices",
   "domain": "no0_yes1"
 }
