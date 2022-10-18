@@ -1,17 +1,17 @@
 [
   {
     "value": "not hispanic or latino",
-    "display_name": "Non-Hispanic",
+    "display_name": "non-hispanic",
     "description": ""
   },
   {
     "value": "hispanic or latino",
-    "display_name": "Hispanic",
+    "display_name": "hispanic",
     "description": ""
   },
   {
     "value": "Not reported",
-    "display_name": "Not reported",
+    "display_name": "not reported",
     "description": ""
   }
 ]
