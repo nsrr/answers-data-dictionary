@@ -85,8 +85,12 @@ format nsrr_ever_smoker $100.;
 **add in ID so can merge;
   format id 8.2;
 
+    format visit 8.2;
+	visit = 1;
+
   keep 
     id
+	visit
     nsrr_age
     nsrr_age_gt89
     nsrr_sex
@@ -121,7 +125,7 @@ run;
     set answers_nsrr;
   run;
 *****;
-  * merge the datasets ;
+/*  * merge the datasets ;
     data answers_combo_dataset;
     merge
       ansnsrr.answers
@@ -132,18 +136,36 @@ run;
 	*attrib visit format=8.2$.;
 	visit = "1";
 
-  run;
+  run; /*
 
 /* Checking categorical variables */
-proc freq data=answers_combo_dataset;
+proc freq data=answers_nsrr;
 table   visit;
 run;
 
 
 
   *******************************************************************************;
-* create permanent sas datasets ;
+* make variables lowercase ;
 *******************************************************************************;
+
+ options mprint;
+  %macro lowcase(dsn);
+       %let dsid=%sysfunc(open(&dsn));
+       %let num=%sysfunc(attrn(&dsid,nvars));
+       %put &num;
+       data &dsn;
+             set &dsn(rename=(
+          %do i = 1 %to &num;
+          %let var&i=%sysfunc(varname(&dsid,&i));    /*function of varname returns the name of a SAS data set variable*/
+          &&var&i=%sysfunc(lowcase(&&var&i))         /*rename all variables*/
+          %end;));
+          %let close=%sysfunc(close(&dsid));
+    run;
+  %mend lowcase;
+
+  %lowcase(answers);
+  %lowcase(answers_nsrr);
 
 *******************************************************************************;
 * export nsrr csv datasets ;
@@ -156,8 +178,14 @@ run;
 
 
   proc export
-    data=answers_combo_dataset
-    outfile="\\rfawin.partners.org\bwh-sleepepi-nsrr-staging\20221001-answers\nsrr-prep\_releases\&version.\answers_data_&version..csv"
+    data=answers_nsrr
+    outfile="\\rfawin.partners.org\bwh-sleepepi-nsrr-staging\20221001-answers\nsrr-prep\_releases\&version.\answers-harmonized-dataset-&version..csv"
+    dbms=csv
+    replace;
+  run;
+   proc export
+    data=answers
+    outfile="\\rfawin.partners.org\bwh-sleepepi-nsrr-staging\20221001-answers\nsrr-prep\_releases\&version.\answers-dataset-&version..csv"
     dbms=csv
     replace;
   run;
