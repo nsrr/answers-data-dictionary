@@ -1,6 +1,8 @@
 # Answers Data Dictionary
+======================
 
-[![Build Status](https://travis-ci.com/<REPOSITORY>/answers-data-dictionary-data-dictionary.svg?branch=master)](https://travis-ci.com/<REPOSITORY>/answers-data-dictionary-data-dictionary)
+[![Build Status](https://app.travis-ci.com/nsrr/answers-data-dictionary.svg?branch=master)](https://app.travis-ci.com/nsrr/answers-data-dictionary)
+
 
 ### Exports
 
@@ -42,4 +44,4 @@ approach for changing version numbers uses a variation on
 [Semantic Versioning](http://semver.org).
 
 A full list of changes for each version can be viewed in the
-[CHANGELOG](https://github.com/<REPOSITORY>/answers-data-dictionary-data-dictionary/blob/master/CHANGELOG.md).
+[CHANGELOG](https://github.com/nsrr/answers-data-dictionary/blob/master/CHANGELOG.md).
