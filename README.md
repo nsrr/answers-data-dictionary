@@ -1,11 +1,10 @@
-Answers-data-dictionary Data Dictionary
-======================
+# Answers Data Dictionary Data Dictionary
 
 [![Build Status](https://travis-ci.com/<REPOSITORY>/answers-data-dictionary-data-dictionary.svg?branch=master)](https://travis-ci.com/<REPOSITORY>/answers-data-dictionary-data-dictionary)
 
 ### Exports
 
-The answers-data-dictionary data dictionary can be exported to CSV by typing:
+The Answers data dictionary data dictionary can be exported to CSV by typing:
 
 ```
 spout export
@@ -17,7 +16,7 @@ dictionary.
 
 ### Testing
 
-The answers-data-dictionary data dictionary is tested using the
+The Answers data dictionary data dictionary is tested using the
 [Spout Gem](https://github.com/sleepepi/spout).
 
 Data dictionary tests can be run by typing:
