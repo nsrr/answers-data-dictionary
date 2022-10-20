@@ -1,6 +1,7 @@
 {
   "id": "cesd_8",
   "display_name": "I felt hopeful about the future",
-  "description": "I felt hopeful about the future",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "cesd"
 }

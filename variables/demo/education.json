@@ -1,6 +1,7 @@
 {
   "id": "education",
   "display_name": "What is the highest level of education you have completed?",
-  "description": "What is the highest level of education you have completed?",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "education"
 }

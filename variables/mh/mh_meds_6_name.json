@@ -1,6 +1,6 @@
 {
   "id": "mh_meds_6_name",
   "display_name": "What is the name of the sixth medication?",
-  "description": "What is the name of the sixth medication?",
-  "type": null
+  "description": "",
+  "type": "text"
 }

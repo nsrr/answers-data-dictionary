@@ -1,6 +1,7 @@
 {
   "id": "sds_18",
   "display_name": "When angered, humored, frightened, I experience sudden muscle weakness",
-  "description": "When angered, humored, frightened, I experience sudden muscle weakness",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "sds"
 }

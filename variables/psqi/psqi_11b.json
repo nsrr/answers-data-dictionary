@@ -1,6 +1,7 @@
 {
   "id": "psqi_11b",
   "display_name": "Long pauses between breaths while asleep?",
-  "description": "Long pauses between breaths while asleep?",
-  "type": null
+  "description": "If you have a roommate or bed partner, ask him/her how often in the past month you have had long pauses between breaths while asleep?",
+  "type": "choices",
+  "domain": "wk_freq"
 }

@@ -1,6 +1,7 @@
 {
   "id": "cssrs_3mo_2",
   "display_name": "Have you had any thoughts of killing yourself?",
-  "description": "Have you had any thoughts of killing yourself?",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
 }

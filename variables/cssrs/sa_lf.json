@@ -1,0 +1,7 @@
+{
+  "id": "sa_lf",
+  "display_name": "Suicide attempt in lifetime",
+  "description": "Yes if cssrs_lf_8, no otherwise",
+  "type": "choices",
+  "domain": "noyes"
+}

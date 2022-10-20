@@ -1,6 +1,7 @@
 {
   "id": "mh_meds_1",
   "display_name": "Are you taking any medications (prescription or over-the-counter)?",
-  "description": "Are you taking any medications (prescription or over-the-counter)?",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
 }

@@ -1,6 +1,6 @@
 {
   "id": "ddnsi_2",
   "display_name": "How many nightmares do you have per week?",
-  "description": "How many nightmares do you have per week?",
-  "type": null
+  "description": "",
+  "type": "numeric"
 }

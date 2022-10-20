@@ -1,6 +1,6 @@
 {
   "id": "wd_twt",
   "display_name": "Weekday Total Wake Time (SOL+WASO+EMA)",
-  "description": "Weekday Total Wake Time (SOL+WASO+EMA)",
-  "type": null
+  "description": "",
+  "type": "numeric"
 }

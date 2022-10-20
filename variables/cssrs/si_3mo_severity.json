@@ -1,0 +1,6 @@
+{
+  "id": "si_3mo_severity",
+  "display_name": "Suicidal ideation severity in last 3 months",
+  "description": "Sum of cssrs_3mo_1 through 5",
+  "type": "numeric"
+}

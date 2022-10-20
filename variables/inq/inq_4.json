@@ -1,6 +1,7 @@
 {
   "id": "inq_4",
   "display_name": "These days, I think my death would be a relief to the people in my life",
-  "description": "These days, I think my death would be a relief to the people in my life",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "inq"
 }

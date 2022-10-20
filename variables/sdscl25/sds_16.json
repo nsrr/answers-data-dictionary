@@ -1,6 +1,7 @@
 {
   "id": "sds_16",
   "display_name": "I have an urge to move my legs that is worse in the evenings and nights",
-  "description": "I have an urge to move my legs that is worse in the evenings and nights",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "sds"
 }

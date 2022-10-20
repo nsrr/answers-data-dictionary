@@ -1,6 +1,7 @@
 {
   "id": "cesd_19",
   "display_name": "I felt that people dislike me",
-  "description": "I felt that people dislike me",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "cesd"
 }

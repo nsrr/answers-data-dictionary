@@ -1,6 +1,6 @@
 {
   "id": "wd_tib",
   "display_name": "Weekday Time in Bed (TOB-TTB)",
-  "description": "Weekday Time in Bed (TOB-TTB)",
-  "type": null
+  "description": "",
+  "type": "numeric"
 }

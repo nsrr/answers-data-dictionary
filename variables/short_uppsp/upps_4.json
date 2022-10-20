@@ -1,6 +1,7 @@
 {
   "id": "upps_4",
   "display_name": "Unfinished tasks really bother me",
-  "description": "Unfinished tasks really bother me",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "upps"
 }

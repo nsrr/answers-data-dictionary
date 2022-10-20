@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": " Agree strongly ",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": " Agree some ",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": " Disagree some ",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": " Disagree strongly",
+    "description": ""
+  }
+]

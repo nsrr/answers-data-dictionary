@@ -1,6 +1,7 @@
 {
   "id": "upps_11",
   "display_name": "I finish what I start",
-  "description": "I finish what I start",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "upps"
 }

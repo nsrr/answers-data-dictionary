@@ -1,6 +1,7 @@
 {
   "id": "cssrs_3mo_8",
   "display_name": "Have you made a suicide attempt?",
-  "description": "Have you made a suicide attempt?",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
 }

@@ -1,6 +1,7 @@
 {
   "id": "cesd_7",
   "display_name": "I felt that everything I did was an effort",
-  "description": "I felt that everything I did was an effort",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "cesd"
 }

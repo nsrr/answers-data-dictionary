@@ -1,6 +1,7 @@
 {
   "id": "inq_15",
   "display_name": "These days, I have at least one satisfying interaction every day",
-  "description": "These days, I have at least one satisfying interaction every day",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "inq"
 }

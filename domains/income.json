@@ -1,0 +1,32 @@
+[
+  {
+    "value": "< $25,000",
+    "display_name": " < $25,000 ",
+    "description": ""
+  },
+  {
+    "value": "$25,000 - $50,000",
+    "display_name": " $25,000 - $50,000 ",
+    "description": ""
+  },
+  {
+    "value": "$50,000 - $100,000",
+    "display_name": " $50,000 - $100,000 ",
+    "description": ""
+  },
+  {
+    "value": "$100,000 - $200,000",
+    "display_name": " $100,000 - $200,000 ",
+    "description": ""
+  },
+  {
+    "value": ">$200,000",
+    "display_name": " >$200,000 ",
+    "description": ""
+  },
+  {
+    "value": "Prefer not to say",
+    "display_name": " Prefer not to say",
+    "description": ""
+  }
+]

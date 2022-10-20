@@ -1,6 +1,7 @@
 {
   "id": "isi_5",
   "display_name": "How NOTICEABLE to others do you think your sleep problem is in terms of impairing the quality of your life?",
-  "description": "How NOTICEABLE to others do you think your sleep problem is in terms of impairing the quality of your life?",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "noticeable"
 }

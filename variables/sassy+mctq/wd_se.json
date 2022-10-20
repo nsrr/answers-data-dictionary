@@ -1,6 +1,6 @@
 {
   "id": "wd_se",
   "display_name": "Weekday Sleep Efficiency (TST/TIB)",
-  "description": "Weekday Sleep Efficiency (TST/TIB)",
-  "type": null
+  "description": "",
+  "type": "numeric"
 }

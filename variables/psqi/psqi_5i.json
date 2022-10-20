@@ -1,6 +1,7 @@
 {
   "id": "psqi_5i",
   "display_name": "Have pain?",
-  "description": "Have pain?",
-  "type": null
+  "description": "During the past month how often have you had trouble sleeping because you have pain?",
+  "type": "choices",
+  "domain": "wk_freq"
 }

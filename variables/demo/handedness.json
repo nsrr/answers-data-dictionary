@@ -1,6 +1,7 @@
 {
   "id": "handedness",
   "display_name": "Which is your dominant hand?",
-  "description": "Which is your dominant hand?",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "dominant_hand"
 }

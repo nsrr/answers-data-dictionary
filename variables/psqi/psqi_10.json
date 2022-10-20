@@ -1,6 +1,7 @@
 {
   "id": "psqi_10",
   "display_name": "Do you have a bed partner or roommate?",
-  "description": "Do you have a bed partner or roommate?",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "partner_roommate"
 }

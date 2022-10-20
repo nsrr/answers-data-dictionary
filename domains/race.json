@@ -1,0 +1,32 @@
+[
+  {
+    "value": "White",
+    "display_name": "White / Caucasian ",
+    "description": ""
+  },
+  {
+    "value": "Black",
+    "display_name": "Black / African American ",
+    "description": ""
+  },
+  {
+    "value": "Native",
+    "display_name": "Native American / Alaska Native",
+    "description": ""
+  },
+  {
+    "value": "Multiracial",
+    "display_name": "Multiracial",
+    "description": ""
+  },
+  {
+    "value": "Islander",
+    "display_name": "Native Hawaiian / Pacific Islander",
+    "description": ""
+  },
+  {
+    "value": "Asian",
+    "display_name": "Asian American",
+    "description": ""
+  }
+]

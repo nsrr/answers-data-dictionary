@@ -1,6 +1,7 @@
 {
   "id": "sds_4",
   "display_name": "I am awake for 30 minutes or more during the night",
-  "description": "I am awake for 30 minutes or more during the night",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "sds"
 }

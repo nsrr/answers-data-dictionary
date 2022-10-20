@@ -1,6 +1,7 @@
 {
   "id": "cesd_17",
   "display_name": "I had crying spells",
-  "description": "I had crying spells",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "cesd"
 }

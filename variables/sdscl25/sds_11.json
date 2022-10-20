@@ -1,6 +1,7 @@
 {
   "id": "sds_11",
   "display_name": "I wake up with a dry mouth in the morning (cotton mouth)",
-  "description": "I wake up with a dry mouth in the morning (cotton mouth)",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "sds"
 }

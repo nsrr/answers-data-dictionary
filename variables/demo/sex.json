@@ -1,6 +1,7 @@
 {
   "id": "sex",
   "display_name": "What is your sex?",
-  "description": "What is your sex?",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "sex"
 }

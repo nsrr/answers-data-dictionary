@@ -1,6 +1,7 @@
 {
   "id": "upps_10",
   "display_name": "I tend to lose control when I am in a great mood",
-  "description": "I tend to lose control when I am in a great mood",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "upps"
 }

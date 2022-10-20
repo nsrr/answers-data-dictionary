@@ -1,6 +1,7 @@
 {
   "id": "gad_6",
   "display_name": "Becoming easily annoyed or irritable",
-  "description": "Becoming easily annoyed or irritable",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "gad"
 }

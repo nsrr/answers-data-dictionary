@@ -1,6 +1,7 @@
 {
   "id": "psqi_11d",
   "display_name": "Episodes of disorientation or confusion during sleep?",
-  "description": "Episodes of disorientation or confusion during sleep?",
-  "type": null
+  "description": "If you have a roommate or bed partner, ask him/her how often in the past month you have had episodes of disorientation or confusion during sleep?",
+  "type": "choices",
+  "domain": "wk_freq"
 }

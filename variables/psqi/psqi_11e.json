@@ -1,6 +1,7 @@
 {
   "id": "psqi_11e",
   "display_name": "Other restlessness while you sleep?",
-  "description": "Other restlessness while you sleep?",
-  "type": null
+  "description": "If you have a roommate or bed partner, ask him/her how often in the past month you have had other restlessness while you sleep?",
+  "type": "choices",
+  "domain": "wk_freq"
 }

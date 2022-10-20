@@ -1,6 +1,6 @@
 {
   "id": "we_ttb",
-  "display_name": "WeekendTime to Bed",
-  "description": "WeekendTime to Bed",
-  "type": null
+  "display_name": "Weekend Time to Bed",
+  "description": "",
+  "type": "numeric"
 }

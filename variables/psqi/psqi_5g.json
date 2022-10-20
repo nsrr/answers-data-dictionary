@@ -1,6 +1,7 @@
 {
   "id": "psqi_5g",
   "display_name": "Feel too hot?",
-  "description": "Feel too hot?",
-  "type": null
+  "description": "During the past month how often have you had trouble sleeping because you feel too hot?",
+  "type": "choices",
+  "domain": "wk_freq"
 }

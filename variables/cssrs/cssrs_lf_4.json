@@ -1,6 +1,7 @@
 {
   "id": "cssrs_lf_4",
   "display_name": "Have you had these thoughts and had some intention of acting on them?",
-  "description": "Have you had these thoughts and had some intention of acting on them?",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
 }

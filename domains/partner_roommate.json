@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": " No bed partner or room mate ",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": " Partner/roommate in the other room ",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": " Partner in same room, but not same bed ",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": " Partner in same bed",
+    "description": ""
+  }
+]

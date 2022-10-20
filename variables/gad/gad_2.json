@@ -1,6 +1,7 @@
 {
   "id": "gad_2",
   "display_name": "Not being able to stop or control worrying",
-  "description": "Not being able to stop or control worrying",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "gad"
 }

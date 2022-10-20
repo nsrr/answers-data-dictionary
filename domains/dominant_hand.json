@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Right",
+    "display_name": "Right-handed ",
+    "description": ""
+  },
+  {
+    "value": "Left",
+    "display_name": "Left-handed ",
+    "description": ""
+  },
+  {
+    "value": "Both",
+    "display_name": "Both hands (ambidextrous)",
+    "description": ""
+  }
+]

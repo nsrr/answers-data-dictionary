@@ -1,6 +1,7 @@
 {
   "id": "sds_5",
   "display_name": "I wake up 30 or more minutes before I have to and can't fall back asleep",
-  "description": "I wake up 30 or more minutes before I have to and can't fall back asleep",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "sds"
 }

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Never",
+    "display_name": "Never ",
+    "description": ""
+  },
+  {
+    "value": "Once a month or less",
+    "display_name": "Once a month or less ",
+    "description": ""
+  },
+  {
+    "value": "Once a week or less",
+    "display_name": "Once a week or less ",
+    "description": ""
+  },
+  {
+    "value": "A few times a week",
+    "display_name": "A few times a week ",
+    "description": ""
+  },
+  {
+    "value": "Daily",
+    "display_name": "Every day ",
+    "description": ""
+  },
+  {
+    "value": "Multiple times daily",
+    "display_name": "Multiple times per day",
+    "description": ""
+  }
+]

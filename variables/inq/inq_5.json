@@ -1,6 +1,7 @@
 {
   "id": "inq_5",
   "display_name": "These days, I think the people in my life wish they could be rid of me",
-  "description": "These days, I think the people in my life wish they could be rid of me",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "inq"
 }

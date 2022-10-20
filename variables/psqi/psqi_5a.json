@@ -1,6 +1,7 @@
 {
   "id": "psqi_5a",
   "display_name": "Cannot get to sleep within 30 mins?",
-  "description": "Cannot get to sleep within 30 mins?",
-  "type": null
+  "description": "During the past month how often have you had trouble sleeping because you cannot get to sleep within 30 mins?",
+  "type": "choices",
+  "domain": "wk_freq"
 }

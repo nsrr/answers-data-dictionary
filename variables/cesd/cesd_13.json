@@ -1,6 +1,7 @@
 {
   "id": "cesd_13",
   "display_name": "I talked less than usual",
-  "description": "I talked less than usual",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "cesd"
 }

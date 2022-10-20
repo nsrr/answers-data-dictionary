@@ -1,6 +1,7 @@
 {
   "id": "isi_1",
   "display_name": "Difficulty falling asleep",
-  "description": "Difficulty falling asleep",
-  "type": null
+  "description": "Please rate the following symptoms for the past two (2) weeks. Difficulty falling asleep",
+  "type": "choices",
+  "domain": "difficulty_level"
 }

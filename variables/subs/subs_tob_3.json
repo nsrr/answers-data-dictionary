@@ -1,6 +1,7 @@
 {
   "id": "subs_tob_3",
   "display_name": "How often do you use tobacco products to help you wind down at night?",
-  "description": "How often do you use tobacco products to help you wind down at night?",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "freq_wdown"
 }

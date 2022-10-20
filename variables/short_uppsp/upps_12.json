@@ -1,6 +1,7 @@
 {
   "id": "upps_12",
   "display_name": "I tend to value and follow a rational, \"sensible\" approach to things",
-  "description": "I tend to value and follow a rational, \"sensible\" approach to things",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "upps"
 }

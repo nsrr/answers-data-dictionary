@@ -1,6 +1,6 @@
 {
   "id": "mh_meds_6_dose",
-  "display_name": "How much of [mh_meds_6_name] do you take?",
-  "description": "How much of [mh_meds_6_name] do you take?",
-  "type": null
+  "display_name": "How much of the sixth medication do you take?",
+  "description": "",
+  "type": "numeric"
 }

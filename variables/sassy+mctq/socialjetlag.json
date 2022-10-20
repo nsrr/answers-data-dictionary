@@ -1,6 +1,6 @@
 {
   "id": "socialjetlag",
-  "display_name": "Msf-Msw",
-  "description": "MSF-MSW",
-  "type": null
+  "display_name": "socialjetlag",
+  "description": "",
+  "type": "numeric"
 }

@@ -1,6 +1,7 @@
 {
   "id": "psqi_5j",
   "display_name": "Another reason not listed here? (select not during the past month if no other reasons apply).",
-  "description": "Another reason not listed here? (select not during the past month if no other reasons apply).",
-  "type": null
+  "description": "During the past month how often have you had trouble sleeping because of another reason not listed here? (select not during the past month if no other reasons apply).",
+  "type": "choices",
+  "domain": "wk_freq"
 }

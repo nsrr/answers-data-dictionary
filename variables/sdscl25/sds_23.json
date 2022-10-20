@@ -1,6 +1,7 @@
 {
   "id": "sds_23",
   "display_name": "I have been told that I walk, talk, eat, act strangely, or act violently when I sleep",
-  "description": "I have been told that I walk, talk, eat, act strangely, or act violently when I sleep",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "sds"
 }

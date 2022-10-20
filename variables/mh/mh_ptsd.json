@@ -1,6 +1,7 @@
 {
   "id": "mh_ptsd",
   "display_name": "Post-traumatic stress disorder (PTSD)?",
-  "description": "Post-traumatic stress disorder (PTSD)?",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "mh_diagnosis"
 }

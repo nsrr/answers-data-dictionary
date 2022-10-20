@@ -1,6 +1,7 @@
 {
   "id": "wd_sq",
   "display_name": "Weekday Sleep Quality ",
-  "description": "Weekday Sleep Quality ",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "sleepquality"
 }

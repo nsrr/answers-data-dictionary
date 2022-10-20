@@ -1,6 +1,7 @@
 {
   "id": "cesd_16",
   "display_name": "I enjoyed life",
-  "description": "I enjoyed life",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "cesd"
 }

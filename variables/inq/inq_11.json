@@ -1,6 +1,7 @@
 {
   "id": "inq_11",
   "display_name": "These days, I feel disconnected from other people",
-  "description": "These days, I feel disconnected from other people",
-  "type": null
+  "description": "",
+  "type": "choices",
+  "domain": "inq"
 }

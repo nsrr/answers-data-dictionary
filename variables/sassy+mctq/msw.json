@@ -1,6 +1,6 @@
 {
   "id": "msw",
   "display_name": "Midpoint of sleep on Weekdays/workdays",
-  "description": "Midpoint of sleep on Weekdays/workdays",
-  "type": null
+  "description": "",
+  "type": "numeric"
 }
