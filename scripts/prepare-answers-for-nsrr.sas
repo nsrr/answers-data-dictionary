@@ -17,8 +17,25 @@ replace;
 guessingrows=1000;
 run;
 
+  %let version = 0.2.0.pre;
+
 data answers;
     set ansnsrr.answers;
+
+	format visit 1.;
+	visit = 1;
+
+  array Nums[*] _numeric_;
+   array Chars[*] _character_;
+   do i = 1 to dim(Nums);
+      if Nums[i] = 'NA' then Nums[i] = .;
+   end;
+ 
+   do i = 1 to dim(Chars);
+      if Chars[i] = 'NA' then Chars[i] = .;
+   end;
+   drop i;
+
  run;
 
   proc print data=answers (obs= 10);
@@ -85,7 +102,7 @@ format nsrr_ever_smoker $100.;
 **add in ID so can merge;
   format id 8.2;
 
-    format visit 8.2;
+    format visit 1.;
 	visit = 1;
 
   keep 
@@ -167,10 +184,14 @@ run;
   %lowcase(answers);
   %lowcase(answers_nsrr);
 
+
+
+
+
 *******************************************************************************;
 * export nsrr csv datasets ;
 *******************************************************************************;
-  %let version = 0.1.0;
+
 
   data _null_;
     call symput("sasfiledate",put(year("&sysdate"d),4.)||put(month("&sysdate"d),z2.)||put(day("&sysdate"d),z2.));
