@@ -1,10 +1,10 @@
-# Answers Data Dictionary Data Dictionary
+# Answers Data Dictionary
 
 [![Build Status](https://travis-ci.com/<REPOSITORY>/answers-data-dictionary-data-dictionary.svg?branch=master)](https://travis-ci.com/<REPOSITORY>/answers-data-dictionary-data-dictionary)
 
 ### Exports
 
-The Answers data dictionary data dictionary can be exported to CSV by typing:
+The Answers data dictionary can be exported to CSV by typing:
 
 ```
 spout export
