@@ -1,0 +1,10 @@
+{
+  "id": "mh_pzd",
+  "display_name": "Do you have schizophrenia, schizoaffective disorder, or another psychotic disorder?",
+  "description": "Medical History Questionnaire",
+  "type": "choices",
+  "domain": "mh_diagnosis",
+  "other": {
+    "": null
+  }
+}

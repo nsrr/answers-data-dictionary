@@ -3,5 +3,8 @@
   "display_name": "On days when you smoke cigarettes or use other tobacco products, what times of the day do you smoke? Evening (8PM-11PM) ",
   "description": "",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "other": {
+    "": null
+  }
 }

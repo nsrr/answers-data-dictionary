@@ -1,0 +1,16 @@
+{
+  "id": "wd_tts",
+  "display_name": "Weekday Time to Sleep",
+  "description": "Item calculated based on combined review of Split week self-assessment of sleep survey (SASS-Y) and the Munich Chronotype Questionnaire (MCTQ).  <br><br> [Search for all SASS-Y/MCTQ variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=sassy_mctq)",
+  "type": "numeric",
+  "labels": [
+    "sassy_mctq",
+    "sleep_timing",
+    "sleep_latency",
+    "sassy",
+    "mctq"
+  ],
+  "other": {
+    "": null
+  }
+}

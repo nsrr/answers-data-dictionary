@@ -3,5 +3,8 @@
   "display_name": "How often do you use tobacco products to help you wind down at night?",
   "description": "",
   "type": "choices",
-  "domain": "freq_wdown"
+  "domain": "freq_wdown",
+  "other": {
+    "": null
+  }
 }

@@ -1,7 +1,0 @@
-{
-  "id": "psqi_5d",
-  "display_name": "Cannot breathe comfortably?",
-  "description": "During the past month how often have you had trouble sleeping because you cannot breathe comfortably?",
-  "type": "choices",
-  "domain": "wk_freq"
-}

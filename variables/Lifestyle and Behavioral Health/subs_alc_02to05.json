@@ -3,5 +3,8 @@
   "display_name": "On days when you use cannabis/marijuana, what times of the day do you use it? Middle of the Night (2AM-5AM)",
   "description": "",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "other": {
+    "": null
+  }
 }

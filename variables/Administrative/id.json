@@ -2,5 +2,8 @@
   "id": "id",
   "display_name": "Id",
   "description": "Record ID",
-  "type": "identifier"
+  "type": "identifier",
+  "other": {
+    "": null
+  }
 }

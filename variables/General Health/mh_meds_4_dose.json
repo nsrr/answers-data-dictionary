@@ -1,0 +1,9 @@
+{
+  "id": "mh_meds_4_dose",
+  "display_name": "How much of the fourth medication do you take?",
+  "description": "Medical History Questionnaire",
+  "type": "numeric",
+  "other": {
+    "": null
+  }
+}

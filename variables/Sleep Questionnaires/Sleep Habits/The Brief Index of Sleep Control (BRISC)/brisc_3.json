@@ -1,0 +1,14 @@
+{
+  "id": "brisc_3",
+  "display_name": "Brief Index of Sleep Control: How much control do you have over how much you sleep?",
+  "description": "Item from the Brief Index of Sleep Control (BRISC) [Gardner et al 2020 (PMID: 32482573)](https://pubmed.ncbi.nlm.nih.gov/32482573/)<br><br>[Search for all Brief Index of Sleep Control (BRISC) variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=brisc)",
+  "type": "choices",
+  "domain": "control",
+  "labels": [
+    "brisc_3sleepdur",
+    "brisc"
+  ],
+  "other": {
+    "": null
+  }
+}

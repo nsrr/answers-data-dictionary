@@ -1,0 +1,10 @@
+{
+  "id": "mh_ptsd",
+  "display_name": "Do you have post-traumatic stress disorder (PTSD)?",
+  "description": "Medical History Questionnaire",
+  "type": "choices",
+  "domain": "mh_diagnosis",
+  "other": {
+    "": null
+  }
+}

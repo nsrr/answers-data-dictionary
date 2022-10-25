@@ -1,7 +1,0 @@
-{
-  "id": "mh_mdd",
-  "display_name": "Depression?",
-  "description": "",
-  "type": "choices",
-  "domain": "mh_diagnosis"
-}

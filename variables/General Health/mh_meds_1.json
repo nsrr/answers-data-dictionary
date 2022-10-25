@@ -1,0 +1,10 @@
+{
+  "id": "mh_meds_1",
+  "display_name": "Are you taking any medications (prescription or over-the-counter)?",
+  "description": "Medical History Questionnaire",
+  "type": "choices",
+  "domain": "no0_yes1",
+  "other": {
+    "": null
+  }
+}

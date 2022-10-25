@@ -1,7 +1,0 @@
-{
-  "id": "brisc_4",
-  "display_name": "How well you sleep?",
-  "description": "For the past two (2) weeks,  how much control do you have over how well you sleep?",
-  "type": "choices",
-  "domain": "control"
-}

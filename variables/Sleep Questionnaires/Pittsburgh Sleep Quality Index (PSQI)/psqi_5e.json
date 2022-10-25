@@ -1,7 +1,0 @@
-{
-  "id": "psqi_5e",
-  "display_name": "Cough or snore loudly?",
-  "description": "During the past month how often have you had trouble sleeping because you cough or snore loudly?",
-  "type": "choices",
-  "domain": "wk_freq"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "psqi_11a",
-  "display_name": "Loud snoring?",
-  "description": "If you have a roommate or bed partner, ask him/her how often in the past month you have had loud snoring?",
-  "type": "choices",
-  "domain": "wk_freq"
-}

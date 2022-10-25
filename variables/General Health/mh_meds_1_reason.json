@@ -1,0 +1,9 @@
+{
+  "id": "mh_meds_1_reason",
+  "display_name": "Why do you take the first medication?",
+  "description": "Medical History Questionnaire",
+  "type": "text",
+  "other": {
+    "": null
+  }
+}

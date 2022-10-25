@@ -1,0 +1,13 @@
+{
+  "id": "ddnsi_2",
+  "display_name": "Disturbing Dream and Nightmare Severity Index: How many nightmares do you have per week?",
+  "description": "Item from the Disturbing Dream and Nightmare Severity Index (DDNSI) <br><br>[Search for all Disturbing Dream and Nightmare Severity Index variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=ddnsi)",
+  "type": "numeric",
+  "labels": [
+    "ddnsi_2pernightddnsi",
+    "nightmare"
+  ],
+  "other": {
+    "": null
+  }
+}

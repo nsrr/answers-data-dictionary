@@ -1,0 +1,16 @@
+{
+  "id": "we_se",
+  "display_name": "Weekend Sleep Efficiency",
+  "description": "Item calculated based on combined review of Split week self-assessment of sleep survey (SASS-Y) and the Munich Chronotype Questionnaire (MCTQ).  <br><br> [Search for all SASS-Y/MCTQ variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=sassy_mctq)",
+  "type": "numeric",
+  "calculation": "we_tst/we_tib",
+  "labels": [
+    "sassy_mctq",
+    "sleep_quality",
+    "sassy",
+    "mctq"
+  ],
+  "other": {
+    "": null
+  }
+}

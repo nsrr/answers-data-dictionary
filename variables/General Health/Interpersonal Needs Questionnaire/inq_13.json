@@ -1,0 +1,14 @@
+{
+  "id": "inq_13",
+  "display_name": "Interpersonal Needs Questionnaire: These days, I feel that there are people I can turn to in times of need",
+  "description": "Item from the Interpersonal Needs Questionnaire. [Van Orden et al, 2006 (PubMed ID: 21928908)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3377972/)<br><br><em>Original text: Please respond to each question by using your own current beliefs and experiences, NOT what you think is true in general, or what might be true for other people. Please base your responses on how you've been feeling recently. Use the rating scale to find the number that best matches how you feel and circle that number. There are no right or wrong answers: we are interested in what you think and feel. </em><br><br>[Search for all Interpersonal Needs Questionnaire variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=inq)",
+  "type": "choices",
+  "domain": "inq",
+  "labels": [
+    "inq_13support",
+    "inq"
+  ],
+  "other": {
+    "": null
+  }
+}

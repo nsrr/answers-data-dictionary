@@ -1,0 +1,13 @@
+{
+  "id": "inq_thwartedbelong",
+  "display_name": "Interpersonal Needs Questionnaire: Thwarted Belonging Summary Score",
+  "description": "Summary item from the Interpersonal Needs Questionnaire, calculated from inq_7 to inq_15 (Items 7, 8, 10, 13, 14, and 15 are reverse-wordedand scored); scores range from 9 to 63 and higher scores indicate a greater sense of thwarted belonging. [Van Orden et al, 2006 (PubMed ID: 21928908)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3377972/)<br><br><em>Original text: Please respond to each question by using your own current beliefs and experiences, NOT what you think is true in general, or what might be true for other people. Please base your responses on how you've been feeling recently. Use the rating scale to find the number that best matches how you feel and circle that number. There are no right or wrong answers: we are interested in what you think and feel. </em><br><br>[Search for all Interpersonal Needs Questionnaire variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=inq)",
+  "type": "numeric",
+  "domain": "inq",
+  "labels": [
+    "inq"
+  ],
+  "other": {
+    "": null
+  }
+}

@@ -1,7 +1,0 @@
-{
-  "id": "psqi_5c",
-  "display_name": "Have to get up to use the bathroom?",
-  "description": "During the past month how often have you had trouble sleeping because you have to get up to use the bathroom?",
-  "type": "choices",
-  "domain": "wk_freq"
-}

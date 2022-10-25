@@ -1,6 +1,0 @@
-{
-  "id": "mh_meds_3_timing",
-  "display_name": "Approximately when do you take the third medication (in military time)?",
-  "description": "",
-  "type": "time"
-}

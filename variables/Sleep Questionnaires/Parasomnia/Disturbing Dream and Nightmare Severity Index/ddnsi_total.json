@@ -1,0 +1,14 @@
+{
+  "id": "ddnsi_total",
+  "display_name": "Disturbing Dream and Nightmare Severity Index: DDNSI Total Score",
+  "description": "Total from the Disturbing Dream and Nightmare Severity Index (DDNSI) <br><br>[Search for all Disturbing Dream and Nightmare Severity Index variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=ddnsi)",
+  "type": "numeric",
+  "labels": [
+    "ddnsi",
+    "nightmare",
+    "ddnsi_total"
+  ],
+  "other": {
+    "": null
+  }
+}

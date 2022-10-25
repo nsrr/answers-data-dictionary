@@ -1,0 +1,15 @@
+{
+  "id": "msfsc2",
+  "display_name": "Chronotype with missing data for individuals who use an alarm clock on weekends/freedays",
+  "description": "Item calculated based on combined review of Split week self-assessment of sleep survey (SASS-Y) and the Munich Chronotype Questionnaire (MCTQ).  <br><br> [Search for all SASS-Y/MCTQ variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=sassy_mctq)",
+  "type": "numeric",
+  "labels": [
+    "sassy_mctq",
+    "chronotype",
+    "sassy",
+    "mctq"
+  ],
+  "other": {
+    "": null
+  }
+}

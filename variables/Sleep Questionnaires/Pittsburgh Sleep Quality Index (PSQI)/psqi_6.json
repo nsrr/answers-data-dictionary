@@ -1,7 +1,0 @@
-{
-  "id": "psqi_6",
-  "display_name": "How often have you taken medicine to help you sleep (prescribed or over the counter)?",
-  "description": "During the past month, how often have you taken medicine to help you sleep (prescribed or over the counter)?",
-  "type": "choices",
-  "domain": "wk_freq"
-}

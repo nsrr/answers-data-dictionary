@@ -1,0 +1,15 @@
+{
+  "id": "isi_7",
+  "display_name": "Insomnia Severity Index: Sleep problem intereferes with daily functioning",
+  "description": "Item from Insomnia Severity Index. [Morin CM, Insomnia, psychological assessment and management. Guilford Press, New York, 1993](https://pubmed.ncbi.nlm.nih.gov/21532953/)<br><br><em>Original question: To what extent do you consider your sleep problem to INTERFERE with your daily functioning CURRENTLY?</em><br><br> [Search for all ISI variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=isi)",
+  "type": "choices",
+  "domain": "interfering",
+  "labels": [
+    "isi",
+    "isi_07interfere",
+    "insomnia"
+  ],
+  "other": {
+    "": null
+  }
+}

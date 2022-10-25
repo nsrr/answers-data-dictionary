@@ -1,7 +1,0 @@
-{
-  "id": "sds_2",
-  "display_name": "My bedtime or waketime varies by more than 3 hours",
-  "description": "",
-  "type": "choices",
-  "domain": "sds"
-}

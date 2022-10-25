@@ -1,0 +1,15 @@
+{
+  "id": "psqi_11c",
+  "display_name": "Pittsburgh Sleep Quality Index: Frequency of legs twitching or jerking while asleep in the past month reported by a roommate/bed partner",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=XJZ2gDmcsrA)<br><br><em>Original text: The following questions relate to your usual sleep habits during the past month only. Your answers should indicate the most accurate reply for the majority of days and nights in the past month.<br><br>  If you have a roommate or bed partner, ask him /her how often in the past month you have had: Leg twitching or jerking while you sleep  </em><br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=psqi)",
+  "type": "choices",
+  "domain": "wk_freq",
+  "labels": [
+    "psqi_22legjerk",
+    "psqi",
+    "rls_plms"
+  ],
+  "other": {
+    "": null
+  }
+}

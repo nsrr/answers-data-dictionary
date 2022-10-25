@@ -1,0 +1,16 @@
+{
+  "id": "psqi_5b",
+  "display_name": "Pittsburgh Sleep Quality Index: Wake in the middle or night or early morning the past month",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=XJZ2gDmcsrA)<br><br><em>Original text: The following questions relate to your usual sleep habits during the past month only. Your answers should indicate the most accurate reply for the majority of days and nights in the past month.<br><br> During the past month how often have you had trouble sleeping because you: Wake up in the middle of the night or early morning? </em><br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=psqi)",
+  "type": "choices",
+  "domain": "wk_freq",
+  "labels": [
+    "psqi_07wakeearly",
+    "psqi",
+    "insomia",
+    "sleep_quality"
+  ],
+  "other": {
+    "": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ddnsi_4",
+  "display_name": "Disturbing Dream and Nightmare Severity Index: How severe is your nightmare problem?",
+  "description": "Item from the Disturbing Dream and Nightmare Severity Index (DDNSI) <br><br>[Search for all Disturbing Dream and Nightmare Severity Index variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=ddnsi)",
+  "type": "choices",
+  "domain": "ddnsi_4",
+  "labels": [
+    "ddnsi_4howsevereddnsi",
+    "nightmare"
+  ],
+  "other": {
+    "": null
+  }
+}

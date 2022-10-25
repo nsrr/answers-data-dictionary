@@ -1,0 +1,14 @@
+{
+  "id": "si_lf_severity",
+  "display_name": "Columbia Suicide Severity Ratings Scale Summary Value: Suicidal ideation severity in lifetime",
+  "description": "Summary item from a modified version of the CSSRS Questionnaire. [Salvi 2019 (PMID: 31039299)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7974826/)<br><br> <em> Formula: Sum of :cssrs_lf_1: - :cssrs_lf_5: </em><br><br>[Search for all CSSRS Questionnaire variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=cssrs)",
+  "type": "numeric",
+  "calculation": "cssrs_lf_1 + cssrs_lf_2 + cssrs_lf_3 + cssrs_lf_4 + cssrs_lf_5",
+  "labels": [
+    "cssrs_SI_lf_severity",
+    "cssrs"
+  ],
+  "other": {
+    "": ";cssrs"
+  }
+}

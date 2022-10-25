@@ -1,0 +1,15 @@
+{
+  "id": "isi_6",
+  "display_name": "Insomnia Severity Index: How worried/distressed about current sleep problem",
+  "description": "Item from Insomnia Severity Index. [Morin CM, Insomnia, psychological assessment and management. Guilford Press, New York, 1993](https://pubmed.ncbi.nlm.nih.gov/21532953/)<br><br><em>Original question: How WORRIED/DISTRESSED are you about your current sleep problem? </em><br><br> [Search for all ISI variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=isi)",
+  "type": "choices",
+  "domain": "worried",
+  "labels": [
+    "isi",
+    "isi_06worry",
+    "insomnia"
+  ],
+  "other": {
+    "": null
+  }
+}

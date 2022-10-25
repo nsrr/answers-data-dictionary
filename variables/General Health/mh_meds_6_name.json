@@ -1,0 +1,9 @@
+{
+  "id": "mh_meds_6_name",
+  "display_name": "What is the name of the sixth medication?",
+  "description": "Medical History Questionnaire",
+  "type": "text",
+  "other": {
+    "": null
+  }
+}

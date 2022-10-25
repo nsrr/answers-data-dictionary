@@ -1,7 +1,0 @@
-{
-  "id": "sp_3mo",
-  "display_name": "Suicide planning in past 3 months",
-  "description": "Yes if cssrs_3mo_6, no otherwise",
-  "type": "choices",
-  "domain": "noyes"
-}

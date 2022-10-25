@@ -1,0 +1,13 @@
+{
+  "id": "psqi_c5",
+  "display_name": "Pittsburgh Sleep Quality Index: Sleep disturbances component subscore",
+  "description": "Subscore based on 9 items from Pittsburgh Sleep Quality Index, with a range of 0-3. A score of \"0\" indicates no difficulty, while a score of \"3\" indicates severe difficulty. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=m1XpimqorC)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=psqi) <br><br> Source: :psqi_5b:, :psqi_5c:, :psqi_5d:, :psqi_5e:, :psqi_5f:, :psqi_5g:, :psqi_5h:, :psqi_5i:, :psqi_5j:",
+  "type": "numeric",
+  "labels": [
+    "psqi_c5",
+    "psqi"
+  ],
+  "other": {
+    "": null
+  }
+}

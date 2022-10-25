@@ -3,5 +3,8 @@
   "display_name": "What is your race (select all that apply)?",
   "description": "",
   "type": "choices",
-  "domain": "race"
+  "domain": "race",
+  "other": {
+    "": null
+  }
 }

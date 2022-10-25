@@ -1,0 +1,14 @@
+{
+  "id": "cssrs_lf_7",
+  "display_name": "Columbia Suicide Severity Ratings Scale: In your lifetime, have you hurt yourself for reasons other than to die or without any intention of killing yourself (like to relieve stress, feel better, or get something else to happen)?",
+  "description": "Item from a modified version of the CSSRS Questionnaire. [Salvi 2019 (PMID: 31039299)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7974826/)<br><br> <em> Original Text: Please answer the following questions regarding your lifetime</em><br><br>[Search for all CSSRS Questionnaire variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=cssrs)",
+  "type": "choices",
+  "domain": "no0_yes1",
+  "labels": [
+    "cssrs_lf_7selfharm",
+    "cssrs"
+  ],
+  "other": {
+    "": null
+  }
+}

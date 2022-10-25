@@ -3,5 +3,8 @@
   "display_name": "On days when you drink alcohol, what times of the day do you drink? Morning (8AM-11AM) ",
   "description": "",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "other": {
+    "": null
+  }
 }

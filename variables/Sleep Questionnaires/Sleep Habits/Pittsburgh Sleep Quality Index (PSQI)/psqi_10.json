@@ -1,0 +1,13 @@
+{
+  "id": "psqi_10",
+  "display_name": "Pittsburgh Sleep Quality Index: Do you have a bed partner or roommate?",
+  "description": "Item related to Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=XJZ2gDmcsrA)<br><br><em>Original text:  Do you have a bed partner or roommate?</em><br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=psqi)",
+  "type": "choices",
+  "domain": "partner_roommate",
+  "labels": [
+    "psqi"
+  ],
+  "other": {
+    "": null
+  }
+}

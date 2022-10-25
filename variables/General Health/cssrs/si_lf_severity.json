@@ -1,6 +1,0 @@
-{
-  "id": "si_lf_severity",
-  "display_name": "Suicidal ideation severity in lifetime",
-  "description": "Sum of cssrs_lf_1 through 5",
-  "type": "numeric"
-}

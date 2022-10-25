@@ -1,7 +1,0 @@
-{
-  "id": "sp_lf",
-  "display_name": "Suicide planning in lifetime",
-  "description": "Yes if cssrs_lf_6, no otherwise",
-  "type": "choices",
-  "domain": "noyes"
-}

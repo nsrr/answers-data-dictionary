@@ -1,0 +1,14 @@
+{
+  "id": "psqi_total",
+  "display_name": "Pittsburgh Sleep Quality Index: Total (Global) Score",
+  "description": "Summary score for the Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/) Seven component scores are derived, from 0 (no difficulty) to 3 (severe difficulty). The global score is the sum of the seven components (0 to 21), while higher scores indicate worse sleep quality.<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=mJRilvX9iSA) <br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=psqi)",
+  "type": "numeric",
+  "calculation": "psqi_c1 + psqi_c2 + psqi_c3 + psqi_c4 + psqi_c5 + psqi_c6 + psqi_c7",
+  "labels": [
+    "psqi",
+    " psqi_total"
+  ],
+  "other": {
+    "": null
+  }
+}

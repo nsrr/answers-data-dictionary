@@ -1,0 +1,14 @@
+{
+  "id": "psqi_3",
+  "display_name": "Pittsburgh Sleep Quality Index: What time gotten up in the morning the past month",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=XJZ2gDmcsrA)<br><br><em>Original text: The following questions relate to your usual sleep habits during the past month only. Your answers should indicate the most accurate reply for the majority of days and nights in the past month.<br><br> During the past month, what time have you usually gotten up in the morning? </em><br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=psqi)",
+  "type": "time",
+  "labels": [
+    "psqi_03morning",
+    "psqi",
+    "sleep_timing"
+  ],
+  "other": {
+    "": null
+  }
+}

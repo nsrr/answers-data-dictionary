@@ -1,7 +1,0 @@
-{
-  "id": "psqi_7",
-  "display_name": "How often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",
-  "description": "During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",
-  "type": "choices",
-  "domain": "wk_freq"
-}

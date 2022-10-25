@@ -1,0 +1,13 @@
+{
+  "id": "brisc_total",
+  "display_name": "Brief Index of Sleep Control: Total score",
+  "description": "Total from the Brief Index of Sleep Control (BRISC), computed by taking the mean of all 4 items, greater scores indicate more control (range of 0-4). [Gardner et al 2020 (PMID: 32482573)](https://pubmed.ncbi.nlm.nih.gov/32482573/)<br><br>[Search for all Brief Index of Sleep Control (BRISC) variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=brisc)",
+  "type": "numeric",
+  "labels": [
+    "brisc_total",
+    "brisc"
+  ],
+  "other": {
+    "": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cesd_11",
+  "display_name": "Center for Epidemiologic Studies Depression Scale: Over the past 2 weeks, my sleep was restless.",
+  "description": "Item from the CESD Questionnaire. [Radloff, L. S. (1977). The CES-D Scale: A Self-Report Depression Scale for Research in the General Population. Applied Psychological Measurement, 1(3), 385-401.](https://doi.org/10.1177/014662167700100306)<br><br> <em> Original Text: Please rate the following symptoms for the past two (2) weeks. </em><br><br>[Search for all CESD Questionnaire variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=cesd)",
+  "type": "choices",
+  "domain": "cesd",
+  "labels": [
+    "cesd_11restless",
+    "cesd"
+  ],
+  "other": {
+    "": null
+  }
+}

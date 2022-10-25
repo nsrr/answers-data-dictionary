@@ -1,7 +1,0 @@
-{
-  "id": "psqi_9",
-  "display_name": "How would you rate your sleep quality overall?",
-  "description": "During the past month, how would you rate your sleep quality overall?",
-  "type": "choices",
-  "domain": "sleepquality_rvrs"
-}

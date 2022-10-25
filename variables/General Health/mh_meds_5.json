@@ -1,0 +1,10 @@
+{
+  "id": "mh_meds_5",
+  "display_name": "Do you take another medication?",
+  "description": "Medical History Questionnaire",
+  "type": "choices",
+  "domain": "no0_yes1",
+  "other": {
+    "": null
+  }
+}

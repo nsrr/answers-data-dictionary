@@ -1,0 +1,10 @@
+{
+  "id": "mh_szd",
+  "display_name": "Do you have a seizure disorder, or have had seizures?",
+  "description": "Medical History Questionnaire",
+  "type": "choices",
+  "domain": "mh_diagnosis",
+  "other": {
+    "": null
+  }
+}

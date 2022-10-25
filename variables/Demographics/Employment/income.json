@@ -3,5 +3,8 @@
   "display_name": "What is your current income?",
   "description": "",
   "type": "choices",
-  "domain": "income"
+  "domain": "income",
+  "other": {
+    "": null
+  }
 }

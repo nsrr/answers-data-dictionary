@@ -3,5 +3,8 @@
   "display_name": "How often do you smoke cigarettes or other tobacco products?",
   "description": "",
   "type": "choices",
-  "domain": "tob_freq"
+  "domain": "tob_freq",
+  "other": {
+    "": null
+  }
 }

@@ -1,0 +1,14 @@
+{
+  "id": "si_lf_yn",
+  "display_name": "Columbia Suicide Severity Ratings Scale Summary Value: Suicidal ideation yes/no in lifetime",
+  "description": "Summary item from a modified version of the CSSRS Questionnaire. [Salvi 2019 (PMID: 31039299)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7974826/)<br><br> <em> Formula: Yes if 1 for :cssrs_lf_1: or :cssrs_lf_2:, No otherwise </em><br><br>[Search for all CSSRS Questionnaire variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=cssrs)",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "cssrs_SI_lf_yn",
+    "cssrs"
+  ],
+  "other": {
+    "": null
+  }
+}

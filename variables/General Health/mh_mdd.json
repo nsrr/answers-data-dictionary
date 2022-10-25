@@ -1,0 +1,10 @@
+{
+  "id": "mh_mdd",
+  "display_name": "Do you have depression?",
+  "description": "Medical History Questionnaire",
+  "type": "choices",
+  "domain": "mh_diagnosis",
+  "other": {
+    "": null
+  }
+}

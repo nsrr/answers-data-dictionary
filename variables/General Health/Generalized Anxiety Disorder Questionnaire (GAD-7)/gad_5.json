@@ -1,0 +1,14 @@
+{
+  "id": "gad_5",
+  "display_name": "Generalized Anxiety Disorder-7 Questionnaire: Being so restless that it is hard to sit still ",
+  "description": "Item from the GAD-7 Questionnaire. [Spitzer et al, 2006 (PubMed ID: 16717171)](https://pubmed.ncbi.nlm.nih.gov/16717171/)<br><br> <em> Original Text: Please rate the following symptoms for the past two (2) weeks. </em> <br><br>[Search for all GAD-7 Questionnaire variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=gad7)",
+  "type": "choices",
+  "domain": "gad",
+  "labels": [
+    "gad7_05restless",
+    "gad7"
+  ],
+  "other": {
+    "": null
+  }
+}

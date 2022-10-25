@@ -1,7 +1,10 @@
 {
   "id": "subs_can_1",
   "display_name": "How often do you use marijuana/cannabis?",
-  "description": "",
+  "description": "<em> Original text: How often do you use marijuana/cannabis? (Remember -- this is completely private and confidential. We use this information for scientific purposes only). </em>",
   "type": "choices",
-  "domain": "subs_freq"
+  "domain": "subs_freq",
+  "other": {
+    "": null
+  }
 }

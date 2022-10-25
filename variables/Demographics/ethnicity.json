@@ -3,5 +3,8 @@
   "display_name": "What is your ethnicity?",
   "description": "",
   "type": "choices",
-  "domain": "ethnicity"
+  "domain": "ethnicity",
+  "other": {
+    "": null
+  }
 }

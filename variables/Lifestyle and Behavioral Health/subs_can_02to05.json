@@ -3,5 +3,8 @@
   "display_name": "On days when you smoke cigarettes or use other tobacco products, what times of the day do you smoke? Middle of the Night (2AM-5AM)",
   "description": "",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "other": {
+    "": null
+  }
 }

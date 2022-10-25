@@ -1,0 +1,15 @@
+{
+  "id": "sds_13",
+  "display_name": "Sleep Disorders Symptom Checklist - 25: For the past three (3) months, I have been told that I stop breathing in my sleep",
+  "description": "Item from the Sleep Disorders Symptom Checklist - 25. [Klingman et al 2017, Introducing the Sleep Disorders Symptom Checklist-25: A Primary Care Friendly and Comprehensive Screener for Sleep Disorders, Sleep Med Res 2017; 8(1): 17-25](https://doi.org/10.17241/smr.2017.00010)<br><br>[Search for all Sleep Disorders Symptom Checklist - 25 variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=sds)",
+  "type": "choices",
+  "domain": "sds",
+  "labels": [
+    "sds_13stopbreathe",
+    "sds",
+    "sdb"
+  ],
+  "other": {
+    "": null
+  }
+}

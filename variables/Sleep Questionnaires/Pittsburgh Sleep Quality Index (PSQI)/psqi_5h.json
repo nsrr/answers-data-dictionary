@@ -1,7 +1,0 @@
-{
-  "id": "psqi_5h",
-  "display_name": "Have bad dreams?",
-  "description": "During the past month how often have you had trouble sleeping because you have bad dreams?",
-  "type": "choices",
-  "domain": "wk_freq"
-}

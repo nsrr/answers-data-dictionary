@@ -1,0 +1,10 @@
+{
+  "id": "mh_bpd",
+  "display_name": "Do you have bipolar disorder?",
+  "description": "Medical History Questionnaire",
+  "type": "choices",
+  "domain": "mh_diagnosis",
+  "other": {
+    "": null
+  }
+}

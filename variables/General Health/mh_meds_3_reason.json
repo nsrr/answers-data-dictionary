@@ -1,0 +1,9 @@
+{
+  "id": "mh_meds_3_reason",
+  "display_name": "Why do you take the third medication?",
+  "description": "Medical History Questionnaire",
+  "type": "text",
+  "other": {
+    "": null
+  }
+}
