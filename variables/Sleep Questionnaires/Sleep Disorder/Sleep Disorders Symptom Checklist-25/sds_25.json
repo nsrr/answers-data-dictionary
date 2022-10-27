@@ -8,6 +8,7 @@
     "sds_25interfere",
     "sds",
     "subjective_sleepiness",
-    "sleep_related_impairment"
+    "sleep_related_impairment",
+    "sleep_satisfaction"
   ]
 }

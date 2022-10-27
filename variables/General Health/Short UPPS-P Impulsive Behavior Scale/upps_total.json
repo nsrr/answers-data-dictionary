@@ -1,7 +1,7 @@
 {
   "id": "upps_total",
   "display_name": "Short UPPS-P Impulsive Behavior Scale Total Score",
-  "description": "Total from the Short UPPS-P Impulsive Behavior Scale, note: reverse coding for items 1, 4, 5, 7, 12 and 19 [Cyders et al 2014 (PMID: 24636739)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4055534/)<br><br>[Search for all Short UPPS-P Impulsive Behavior Scale variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=upps)",
+  "description": "Total from the Short UPPS-P Impulsive Behavior Scale. Range 20 -80 with higher scores indicating less impulsivity. Note: reverse coding for items 1, 4, 5, 7, 12 and 19, where we change 1=4, 2=3, 3=2 and 4=1 before calculating the overall sum. [Cyders et al 2014 (PMID: 24636739)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4055534/)<br><br>[Search for all Short UPPS-P Impulsive Behavior Scale variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=upps)",
   "type": "numeric",
   "labels": [
     "upps_total",

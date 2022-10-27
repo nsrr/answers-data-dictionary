@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "control",
   "labels": [
-    "brisc_4sleepqual",
+    "brisc_04sleepqual",
     "brisc"
   ]
 }

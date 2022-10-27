@@ -1,11 +1,10 @@
 {
-  "id": "ddnsi_5",
-  "display_name": "Disturbing Dream and Nightmare Severity Index: How intense are your nightmares?",
+  "id": "ddnsi_1",
+  "display_name": "Disturbing Dream and Nightmare Severity Index: How many nights in a week do you have nightmares?",
   "description": "Item from the Disturbing Dream and Nightmare Severity Index (DDNSI) <br><br>[Search for all Disturbing Dream and Nightmare Severity Index variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=ddnsi)",
-  "type": "choices",
-  "domain": "ddnsi_5",
+  "type": "numeric",
   "labels": [
-    "ddnsi_5howintenseddnsi",
+    "ddnsi_01nightnightmareddnsi",
     "nightmare"
   ]
 }

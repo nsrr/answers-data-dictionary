@@ -32,7 +32,7 @@ data answers;
    end;
  
    do i = 1 to dim(Chars);
-      if Chars[i] = 'NA' then Chars[i] = .;
+      if Chars[i] = 'NA' then Chars[i] = '';
    end;
    drop i;
 

@@ -1,7 +1,7 @@
 {
   "id": "isi_2",
   "display_name": "Insomnia Severity Index: Difficulty staying asleep",
-  "description": "Item from Insomnia Severity Index. [Morin CM, Insomnia, psychological assessment and management. Guilford Press, New York, 1993](https://pubmed.ncbi.nlm.nih.gov/21532953/)<br><br><em>Original question: Please rate the following symptoms for the past two (2) weeks. <br> -Difficulty staying asleep</em><br><br> [Search for all ISI variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=isi)",
+  "description": "Item from Insomnia Severity Index. [Morin (1993)](https://pubmed.ncbi.nlm.nih.gov/21532953/)<br><br><em>Original question: Please rate the following symptoms for the past two (2) weeks. <br> -Difficulty falling asleep</em><br><br> [Search for all ISI variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=isi)",
   "type": "choices",
   "domain": "difficulty_level",
   "labels": [

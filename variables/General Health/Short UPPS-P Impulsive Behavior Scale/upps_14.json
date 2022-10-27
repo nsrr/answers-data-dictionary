@@ -1,7 +1,7 @@
 {
   "id": "upps_14",
   "display_name": "Short UPPS-P Impulsive Behavior Scale: I welcome new and exciting experiences and sensations, even if they are a little frightening and unconventional",
-  "description": "Item from the Short UPPS-P Impulsive Behavior Scale [Cyders et al 2014 (PMID: 24636739)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4055534/)<br><br><em> Question text: For each statement, please indicate how much you agree or disagree with the statement. </em><br><br>[Search for all Short UPPS-P Impulsive Behavior Scale variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=upps)",
+  "description": "Item from the Short UPPS-P Impulsive Behavior Scale with a range of 1 (Strongly Agree) to 4 (Strongly Disagree). Coded so higher scores indicate less impulsivity. [Cyders et al 2014 (PMID: 24636739)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4055534/)<br><br><em> Question text: For each statement, please indicate how much you agree or disagree with the statement. </em><br><br>[Search for all Short UPPS-P Impulsive Behavior Scale variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=upps)",
   "type": "choices",
   "domain": "upps",
   "labels": [

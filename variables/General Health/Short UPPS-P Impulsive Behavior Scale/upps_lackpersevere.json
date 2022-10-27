@@ -1,7 +1,7 @@
 {
   "id": "upps_lackpersevere",
   "display_name": "Short UPPS-P Impulsive Behavior Scale: Lack of Perseverance Subscore",
-  "description": "Summary item from the Short UPPS-P Impulsive Behavior Scale, calculated from :upps_1:, :upps_4:, :upps_7: and :upps_11:. [Cyders et al 2014 (PMID: 24636739)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4055534/)<br><br>[Search for all Short UPPS-P Impulsive Behavior Scale variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=upps)",
+  "description": "Summary item from the Short UPPS-P Impulsive Behavior Scale, calculated from :upps_1:, :upps_4:, :upps_7: and :upps_11:.  Range 4 -16 with higher scores indicating less impulsivity. Note: reverse coding for items 1, 4 and 7, where we change 1=4, 2=3, 3=2 and 4=1 before calculating the overall sum. [Cyders et al 2014 (PMID: 24636739)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4055534/)<br><br>[Search for all Short UPPS-P Impulsive Behavior Scale variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=upps)",
   "type": "numeric",
   "labels": [
     "upps_lackpersevere",

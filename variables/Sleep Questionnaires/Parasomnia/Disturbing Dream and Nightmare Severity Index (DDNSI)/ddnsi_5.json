@@ -1,11 +1,11 @@
 {
-  "id": "ddnsi_3",
-  "display_name": "Disturbing Dream and Nightmare Severity Index: How many times do the nightmares wake you up?",
+  "id": "ddnsi_5",
+  "display_name": "Disturbing Dream and Nightmare Severity Index: How intense are your nightmares?",
   "description": "Item from the Disturbing Dream and Nightmare Severity Index (DDNSI) <br><br>[Search for all Disturbing Dream and Nightmare Severity Index variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=ddnsi)",
   "type": "choices",
-  "domain": "ddnsi_3",
+  "domain": "ddnsi_5",
   "labels": [
-    "ddnsi_3wakeupddnsi",
+    "ddnsi_05howintenseddnsi",
     "nightmare"
   ]
 }

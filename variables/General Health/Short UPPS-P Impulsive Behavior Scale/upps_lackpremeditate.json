@@ -1,7 +1,7 @@
 {
   "id": "upps_lackpremeditate",
   "display_name": "Short UPPS-P Impulsive Behavior Scale: Lack of Premeditation Subscore",
-  "description": "Summary item from the Short UPPS-P Impulsive Behavior Scale, calculated from :upps_2:, :upps_5:, :upps_12: and :upps_19:.  [Cyders et al 2014 (PMID: 24636739)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4055534/)<br><br>[Search for all Short UPPS-P Impulsive Behavior Scale variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=upps)",
+  "description": "Summary item from the Short UPPS-P Impulsive Behavior Scale, calculated from :upps_2:, :upps_5:, :upps_12: and :upps_19:.Range 4 -16 with higher scores indicating less impulsivity. Note: reverse coding for items 5, 12 and 19, where we change 1=4, 2=3, 3=2 and 4=1 before calculating the overall sum. [Cyders et al 2014 (PMID: 24636739)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4055534/)<br><br>[Search for all Short UPPS-P Impulsive Behavior Scale variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=upps)",
   "type": "numeric",
   "labels": [
     "upps_lackpremeditate",
