@@ -6,11 +6,9 @@
   "calculation": "wd_tob-wd_ttb",
   "labels": [
     "sassy_mctq",
-    "sleep_timing",
+    "sleep_duration",
     "sassy",
-    "mctq"
-  ],
-  "other": {
-    "": null
-  }
+    "mctq",
+    "avgprdbd_w5_f3"
+  ]
 }

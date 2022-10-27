@@ -1,16 +1,14 @@
 {
-  "id": "we_ema",
-  "display_name": "Weekend Early Morning Awakening",
+  "id": "wd_ema",
+  "display_name": "Weekday Early Morning Awakening",
   "description": "Item calculated based on combined review of Split week self-assessment of sleep survey (SASS-Y) and the Munich Chronotype Questionnaire (MCTQ).  <br><br> [Search for all SASS-Y/MCTQ variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=sassy_mctq)",
   "type": "numeric",
-  "calculation": "we_tob - we_tfa",
+  "calculation": "wd_tob - wd_tfa",
   "labels": [
     "sassy_mctq",
-    "sleep_timing",
+    "chronotype",
+    "insomnia",
     "sassy",
     "mctq"
-  ],
-  "other": {
-    "": null
-  }
+  ]
 }

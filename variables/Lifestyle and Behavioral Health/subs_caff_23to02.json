@@ -3,8 +3,5 @@
   "display_name": "On days when you drink alcohol, what times of the day do you drink? Late Evening (11PM-2AM) ",
   "description": "",
   "type": "choices",
-  "domain": "noyes",
-  "other": {
-    "": null
-  }
+  "domain": "noyes"
 }

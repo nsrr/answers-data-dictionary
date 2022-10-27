@@ -6,11 +6,10 @@
   "calculation": "we_sol + we_waso + we_ema",
   "labels": [
     "sassy_mctq",
-    "sleep_timing",
+    "sleep_efficiency",
+    "sleep_quality",
     "sassy",
-    "mctq"
-  ],
-  "other": {
-    "": null
-  }
+    "mctq",
+    "avgdurwk_w2_f3"
+  ]
 }

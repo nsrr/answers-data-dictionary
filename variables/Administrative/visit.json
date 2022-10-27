@@ -3,8 +3,5 @@
   "display_name": "Cross-Sectional Survey",
   "description": "visit",
   "type": "choices",
-  "domain": "vnum",
-  "other": {
-    "": null
-  }
+  "domain": "vnum"
 }

@@ -9,8 +9,5 @@
     "sds",
     "subjective_sleepiness",
     "sleep_quality"
-  ],
-  "other": {
-    "": null
-  }
+  ]
 }

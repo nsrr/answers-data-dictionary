@@ -3,8 +3,5 @@
   "display_name": "How would you rate your overall health?",
   "description": "Medical History Questionnaire",
   "type": "choices",
-  "domain": "mh_health",
-  "other": {
-    "": null
-  }
+  "domain": "mh_health"
 }

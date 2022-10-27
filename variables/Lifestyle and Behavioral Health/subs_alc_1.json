@@ -3,8 +3,5 @@
   "display_name": "How often do you drink alcohol?",
   "description": "",
   "type": "choices",
-  "domain": "subs_freq",
-  "other": {
-    "": null
-  }
+  "domain": "subs_freq"
 }

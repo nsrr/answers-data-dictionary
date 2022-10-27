@@ -2,8 +2,5 @@
   "id": "mh_meds_5_timing",
   "display_name": "Approximately when do you take the fifth medication (in military time)?",
   "description": "Medical History Questionnaire",
-  "type": "time",
-  "other": {
-    "": null
-  }
+  "type": "time"
 }

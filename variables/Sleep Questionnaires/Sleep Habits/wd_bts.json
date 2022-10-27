@@ -6,11 +6,9 @@
   "calculation": "wd_tts - wd_ttb",
   "labels": [
     "sassy_mctq",
-    "sleep_timing",
+    "sleep_hygiene",
     "sassy",
-    "mctq"
-  ],
-  "other": {
-    "": null
-  }
+    "mctq",
+    "avglatbd_w5_f3"
+  ]
 }

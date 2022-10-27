@@ -3,8 +3,5 @@
   "display_name": "Please describe your sexual orientation:",
   "description": "",
   "type": "choices",
-  "domain": "sexual_orientation",
-  "other": {
-    "": null
-  }
+  "domain": "sexual_orientation"
 }

@@ -8,9 +8,7 @@
     "sleep_timing",
     "sleep_latency",
     "sassy",
-    "mctq"
-  ],
-  "other": {
-    "": null
-  }
+    "mctq",
+    "avgbptsp_w2_f3"
+  ]
 }

@@ -7,8 +7,5 @@
   "labels": [
     "age_at_index_gt89"
   ],
-  "commonly_used": true,
-  "other": {
-    "": null
-  }
+  "commonly_used": true
 }

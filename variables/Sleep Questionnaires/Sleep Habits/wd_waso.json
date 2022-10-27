@@ -1,6 +1,6 @@
 {
   "id": "wd_waso",
-  "display_name": "Weekday Wake after Sleep Onset",
+  "display_name": "Weekday Wake after Sleep Onset (WASO)",
   "description": "Item calculated based on combined review of Split week self-assessment of sleep survey (SASS-Y) and the Munich Chronotype Questionnaire (MCTQ).  <br><br> [Search for all SASS-Y/MCTQ variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=sassy_mctq)",
   "type": "numeric",
   "labels": [
@@ -8,9 +8,7 @@
     "sleep_quality",
     "insomnia",
     "sassy",
-    "mctq"
-  ],
-  "other": {
-    "": null
-  }
+    "mctq",
+    "avgdurws_w5_f3"
+  ]
 }

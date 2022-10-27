@@ -6,11 +6,9 @@
   "calculation": "wd_tst/wd_tib",
   "labels": [
     "sassy_mctq",
-    "sleep_quality",
+    "sleep_efficiency",
     "sassy",
-    "mctq"
-  ],
-  "other": {
-    "": null
-  }
+    "mctq",
+    "avgeffsp_w5_f3"
+  ]
 }

@@ -10,8 +10,5 @@
     "sleep_latency",
     "insomnia",
     "sleep_quality"
-  ],
-  "other": {
-    "": null
-  }
+  ]
 }

@@ -9,8 +9,5 @@
     "psqi",
     "sleep_timing",
     "sleep_latency"
-  ],
-  "other": {
-    "": null
-  }
+  ]
 }

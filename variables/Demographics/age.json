@@ -3,8 +3,5 @@
   "display_name": "What is your date of birth?",
   "description": "",
   "type": "numeric",
-  "units": "years",
-  "other": {
-    "": null
-  }
+  "units": "years"
 }

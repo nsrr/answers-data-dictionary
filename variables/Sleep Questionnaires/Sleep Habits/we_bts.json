@@ -6,11 +6,9 @@
   "calculation": "we_tts - we_ttb",
   "labels": [
     "sassy_mctq",
-    "sleep_timing",
+    "sleep_hygiene",
     "sassy",
-    "mctq"
-  ],
-  "other": {
-    "": null
-  }
+    "mctq",
+    "avglatbd_w2_f3"
+  ]
 }

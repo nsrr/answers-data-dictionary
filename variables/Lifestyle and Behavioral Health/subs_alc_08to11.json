@@ -3,8 +3,5 @@
   "display_name": "On days when you use cannabis/marijuana, what times of the day do you use it? Morning (8AM-11AM) ",
   "description": "",
   "type": "choices",
-  "domain": "noyes",
-  "other": {
-    "": null
-  }
+  "domain": "noyes"
 }

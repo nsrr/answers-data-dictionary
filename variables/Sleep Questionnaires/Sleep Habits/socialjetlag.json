@@ -6,11 +6,7 @@
   "labels": [
     "sassy_mctq",
     "sleep_regularity",
-    "sleep_timing",
     "sassy",
     "mctq"
-  ],
-  "other": {
-    "": null
-  }
+  ]
 }

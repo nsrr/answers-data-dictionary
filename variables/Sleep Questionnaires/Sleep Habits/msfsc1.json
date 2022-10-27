@@ -5,11 +5,8 @@
   "type": "numeric",
   "labels": [
     "sassy_mctq",
-    "chronotype",
+    "sleep_regularity",
     "sassy",
     "mctq"
-  ],
-  "other": {
-    "": null
-  }
+  ]
 }

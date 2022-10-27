@@ -6,11 +6,10 @@
   "calculation": "wd_sol + wd_waso + wd_ema",
   "labels": [
     "sassy_mctq",
-    "sleep_timing",
+    "sleep_efficiency",
+    "sleep_quality",
     "sassy",
-    "mctq"
-  ],
-  "other": {
-    "": null
-  }
+    "mctq",
+    "avgdurwk_w5_f3"
+  ]
 }

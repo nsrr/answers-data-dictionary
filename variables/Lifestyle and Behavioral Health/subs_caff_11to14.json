@@ -3,8 +3,5 @@
   "display_name": "On days when you drink alcohol, what times of the day do you drink? Noontime (11AM-2PM) ",
   "description": "",
   "type": "choices",
-  "domain": "noyes",
-  "other": {
-    "": null
-  }
+  "domain": "noyes"
 }

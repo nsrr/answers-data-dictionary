@@ -6,8 +6,5 @@
   "domain": "partner_roommate",
   "labels": [
     "psqi"
-  ],
-  "other": {
-    "": null
-  }
+  ]
 }

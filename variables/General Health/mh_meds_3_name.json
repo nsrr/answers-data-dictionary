@@ -2,8 +2,5 @@
   "id": "mh_meds_3_name",
   "display_name": "What is the name of the third medication?",
   "description": "Medical History Questionnaire",
-  "type": "text",
-  "other": {
-    "": null
-  }
+  "type": "text"
 }

@@ -3,8 +3,5 @@
   "display_name": "On days when you drink caffeinated beverages, what times do you drink them? Evening (8PM-11PM) ",
   "description": "",
   "type": "choices",
-  "domain": "noyes",
-  "other": {
-    "": null
-  }
+  "domain": "noyes"
 }

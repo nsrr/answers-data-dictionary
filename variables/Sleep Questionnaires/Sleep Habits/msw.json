@@ -5,11 +5,9 @@
   "type": "numeric",
   "labels": [
     "sassy_mctq",
-    "sleep_timing",
+    "sleep_regularity",
     "sassy",
-    "mctq"
-  ],
-  "other": {
-    "": null
-  }
+    "mctq",
+    "avgmptsp_w5_f3"
+  ]
 }

@@ -3,8 +3,5 @@
   "display_name": "Which is your dominant hand?",
   "description": "",
   "type": "choices",
-  "domain": "dominant_hand",
-  "other": {
-    "": null
-  }
+  "domain": "dominant_hand"
 }

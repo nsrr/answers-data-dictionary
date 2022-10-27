@@ -8,8 +8,5 @@
     "psqi_12hot",
     "psqi",
     "sleep_quality"
-  ],
-  "other": {
-    "": null
-  }
+  ]
 }

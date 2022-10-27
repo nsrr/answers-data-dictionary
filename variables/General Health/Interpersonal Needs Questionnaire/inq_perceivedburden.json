@@ -7,8 +7,5 @@
   "calculation": "inq_1 + inq_2 + inq_3 + inq_4 + inq_5 + inq_6",
   "labels": [
     "inq"
-  ],
-  "other": {
-    "": null
-  }
+  ]
 }

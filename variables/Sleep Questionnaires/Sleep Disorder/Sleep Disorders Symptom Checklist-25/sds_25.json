@@ -7,10 +7,7 @@
   "labels": [
     "sds_25interfere",
     "sds",
-    "sleep_satisfaction",
-    "subjective_sleepiness"
-  ],
-  "other": {
-    "": null
-  }
+    "subjective_sleepiness",
+    "sleep_related_impairment"
+  ]
 }

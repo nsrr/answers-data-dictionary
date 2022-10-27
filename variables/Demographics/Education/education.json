@@ -3,8 +3,5 @@
   "display_name": "What is the highest level of education you have completed?",
   "description": "",
   "type": "choices",
-  "domain": "education",
-  "other": {
-    "": null
-  }
+  "domain": "education"
 }
