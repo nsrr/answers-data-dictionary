@@ -1,7 +1,7 @@
 {
   "id": "cesd_8",
   "display_name": "Center for Epidemiologic Studies Depression Scale: Over the past 2 weeks, I felt hopeful about the future.",
-  "description": "Item from the CESD Questionnaire. [Radloff, L. S. (1977)](https://doi.org/10.1177/014662167700100306)<br><br> <em> Original Text: Please rate the following symptoms for the past two (2) weeks. </em><br><br>[Search for all CESD Questionnaire variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=cesd)",
+  "description": "Item from the CESD Questionnaire. [Radloff, L. S. (1977)](https://doi.org/10.1177/014662167700100306)<br><br>[Search for all CESD Questionnaire variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=cesd)",
   "type": "choices",
   "domain": "cesd",
   "labels": [

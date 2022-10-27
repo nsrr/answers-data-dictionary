@@ -1,7 +1,7 @@
 {
   "id": "cesd_total",
   "display_name": "Center for Epidemiologic Studies Depression Scale: Sum of 20 items.",
-  "description": "Total score from the CESD Questionnaire,  a high score suggests more severe symptoms. [Radloff, L. S. (1977)](https://doi.org/10.1177/014662167700100306)<br><br> <em> Original Text: Please rate the following symptoms for the past two (2) weeks. </em><br><br>[Search for all CESD Questionnaire variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=cesd)",
+  "description": "Total score from the CESD Questionnaire,  a high score suggests more severe symptoms. [Radloff, L. S. (1977)](https://doi.org/10.1177/014662167700100306)<br><br>[Search for all CESD Questionnaire variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=cesd)",
   "type": "numeric",
   "calculation": "cesd_1 + cesd_2 + cesd_3 + cesd_4 + cesd_5 + cesd_6 + cesd_7 + cesd_8 + cesd_9 + cesd_10 + cesd_11 + cesd_12 + cesd_13 + cesd_14 + cesd_15 + cesd_16 + cesd_17 + cesd_18 + cesd_20",
   "labels": [

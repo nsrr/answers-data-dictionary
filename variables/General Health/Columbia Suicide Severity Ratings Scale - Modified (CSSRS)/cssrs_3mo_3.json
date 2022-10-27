@@ -1,7 +1,7 @@
 {
   "id": "cssrs_3mo_3",
   "display_name": "Columbia Suicide Severity Ratings Scale: In the last 3 months, have you been thinking about how you might kill yourself?",
-  "description": "Item from a modified version of the CSSRS Questionnaire. [Salvi 2019 (PMID: 31039299)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7974826/)<br><br> <em> Original Text: Please answer the following questions for the past 3 months</em><br><br>[Search for all CSSRS Questionnaire variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=cssrs)",
+  "description": "Item from a modified version of the CSSRS Questionnaire. [Salvi 2019 (PMID: 31039299)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7974826/)<br><br>[Search for all CSSRS Questionnaire variables within this dataset](https://sleepdata.org/datasets/answers/variables?search=cssrs)",
   "type": "choices",
   "domain": "no0_yes1",
   "labels": [
