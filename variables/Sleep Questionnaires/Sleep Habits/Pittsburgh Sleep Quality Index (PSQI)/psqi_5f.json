@@ -6,7 +6,6 @@
   "domain": "wk_freq",
   "labels": [
     "psqi_11cold",
-    "psqi",
-    "sleep_quality"
+    "psqi"
   ]
 }
