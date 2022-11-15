@@ -17,7 +17,7 @@ replace;
 guessingrows=1000;
 run;
 
-  %let version = 0.2.0.pre;
+  %let version = 0.2.0;
 
 data answers;
     set ansnsrr.answers;

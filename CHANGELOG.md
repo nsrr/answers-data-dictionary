@@ -1,3 +1,9 @@
+## 0.2.0 (November 15, 2022)
+
+- Revise variable metadata (e.g validated survey instruments)
+- Standardise folder structure
+- Revise missing from 'NA' to missing code
+
 ## 0.1.0 (October 20, 2022)
 
 - Import source answers data and data dictionary
